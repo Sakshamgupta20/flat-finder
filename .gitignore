@@ -1,0 +1,16 @@
+# Web (Next.js)
+web/node_modules/
+web/.next/
+web/out/
+web/next-env.d.ts
+web/*.tsbuildinfo
+
+# Python (scraper)
+.venv/
+__pycache__/
+*.pyc
+
+# Misc
+.DS_Store
+.env*
+!.env.example

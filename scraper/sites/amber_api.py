@@ -43,6 +43,27 @@ def _featured_image(rec: dict) -> str | None:
     return None
 
 
+def _all_images(rec: dict, limit: int = 8) -> list[str]:
+    """Collect distinct image URLs from amber's gallery, featured first."""
+    seen: set[str] = set()
+    out: list[str] = []
+    featured = _featured_image(rec)
+    if featured:
+        seen.add(featured)
+        out.append(featured)
+    for img in rec.get("images") or []:
+        if not isinstance(img, dict):
+            continue
+        url = img.get("path") or img.get("base_path")
+        if not url or url in seen:
+            continue
+        seen.add(url)
+        out.append(url)
+        if len(out) >= limit:
+            break
+    return out
+
+
 def _short_desc(rec: dict) -> str | None:
     short = rec.get("meta_short")
     if isinstance(short, dict):
@@ -203,6 +224,7 @@ def _record_to_listing(rec: dict, source_url: str) -> Listing:
         lat=to_float(coords.get("lat")),
         lng=to_float(coords.get("lng")),
         image=_featured_image(rec),
+        images=_all_images(rec),
         description=_short_desc(rec),
         rating=to_float(rec.get("reviews_rating")),
         rating_count=to_int(rec.get("reviews_count")),

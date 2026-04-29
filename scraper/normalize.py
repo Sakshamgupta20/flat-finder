@@ -28,6 +28,7 @@ class Listing:
     lat: float | None = None
     lng: float | None = None
     image: str | None = None
+    images: list[str] = field(default_factory=list)
     description: str | None = None
     rating: float | None = None
     rating_count: int | None = None
