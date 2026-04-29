@@ -1,0 +1,38 @@
+[
+  {
+    "source": "vitastudent",
+    "source_url": "https://www.vitastudent.com/en/locations/london/",
+    "id": "vitastudent:lewisham-exchange",
+    "name": "Vita Student Lewisham Exchange",
+    "url": "https://www.vitastudent.com/en/cities/london/lewisham-exchange/",
+    "price_text": null,
+    "price_value": null,
+    "price_currency": null,
+    "price_period": null,
+    "price_low": null,
+    "price_high": null,
+    "deposit_min": null,
+    "deposit_max": null,
+    "address": null,
+    "city": "London",
+    "country": "UK",
+    "postal_code": null,
+    "lat": null,
+    "lng": null,
+    "image": null,
+    "description": null,
+    "rating": null,
+    "rating_count": null,
+    "amenities": [],
+    "commute_walk_min": null,
+    "commute_transit_min": null,
+    "commute_drive_min": null,
+    "transit_fare": null,
+    "cancellation_policy": null,
+    "payment_plan": null,
+    "type": "student_accommodation",
+    "raw": {
+      "slug": "lewisham-exchange"
+    }
+  }
+]

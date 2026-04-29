@@ -1,0 +1,64 @@
+[
+  {
+    "source": "prestigestudentliving",
+    "source_url": "https://prestigestudentliving.com/student-accommodation/london/charles-morton-court",
+    "id": "prestigestudentliving:charles-morton-court,-newington-green,-london",
+    "name": "Charles Morton Court, Newington Green, London",
+    "url": "https://prestigestudentliving.com/student-accommodation/london/charles-morton-court",
+    "price_text": "From £289PW",
+    "price_value": 289.0,
+    "price_currency": "GBP",
+    "price_period": "week",
+    "price_low": null,
+    "price_high": null,
+    "deposit_min": null,
+    "deposit_max": null,
+    "address": "37-43 Green Lanes",
+    "city": "London",
+    "country": "UK",
+    "postal_code": "N16 9BS",
+    "lat": 51.552570343018,
+    "lng": -0.087410002946854,
+    "image": "https://api.prestigestudentliving.com/wp-content/uploads/2024/12/student-accommodation-london-charles-morton-court-communal-area-sofa-tv-area_1.jpg",
+    "description": "Stylish student rooms with fast 100Mbps* internet, bicycle storage and great transport links to London Metropolitan University and London Uni.",
+    "rating": null,
+    "rating_count": null,
+    "amenities": [],
+    "commute_walk_min": null,
+    "commute_transit_min": null,
+    "commute_drive_min": null,
+    "transit_fare": null,
+    "cancellation_policy": null,
+    "payment_plan": null,
+    "type": "student_accommodation",
+    "raw": {
+      "lodging": {
+        "@context": "http://www.schema.org",
+        "@type": "LodgingBusiness",
+        "name": "Charles Morton Court, Newington Green, London | Book Direct – No Fuss",
+        "url": "https://prestigestudentliving.com/student-accommodation/london/charles-morton-court",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://prestigestudentliving.com/images/psl-logo.png",
+          "caption": "Prestige Student Living",
+          "inLanguage": "en-GB"
+        },
+        "image": "https://api.prestigestudentliving.com/wp-content/uploads/2024/12/student-accommodation-london-charles-morton-court-communal-area-sofa-tv-area_1.jpg",
+        "description": "Stylish student rooms with fast 100Mbps* internet, bicycle storage and great transport links to London Metropolitan University and London Uni.",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "37-43 Green Lanes",
+          "addressLocality": "London",
+          "postalCode": "N16 9BS"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "51.552570343018",
+          "longitude": "-0.087410002946854"
+        },
+        "telephone": "tel:+443333443787",
+        "priceRange": "From £289PW"
+      }
+    }
+  }
+]

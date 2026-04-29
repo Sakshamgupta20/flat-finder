@@ -1,0 +1,1286 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MXH64NM');</script>
+    <!-- End Google Tag Manager -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="Leading student accommodation agency, offering short &amp; long term student accommodations in London, UK including student halls and rand residences." />
+    <title>Londonist - Student Accommodation Agency</title>
+
+    <link rel="icon" href="../../landing-student/new-landing-students-rebooker/images/favicon.svg" />
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <style>
+        :root {
+            /* colors */
+            --primary-color: #FF6C00;
+
+            /* Primary fonts */
+            --font-amaranth: Helvetica, Arial, sans-serif;
+            /*'Amaranth', sans-serif;*/
+            --font-dm-sans: Helvetica, Arial, sans-serif;
+            /*'DM Sans', sans-serif;*/
+            --font-plus-jakarta: Helvetica, Arial, sans-serif;
+            /*'Plus Jakarta Sans', sans-serif;*/
+            --font-helvetica: Helvetica, Arial, sans-serif;
+
+            /* Font weights */
+            --regular: 400;
+            --bold: 700;
+        }
+
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 100%;
+            overflow-x: hidden;
+        }
+
+
+        .links {
+            color: #fff !important;
+            text-decoration: none !important;
+
+        }
+
+        a {
+            text-decoration: none !important;
+        }
+
+        .select-wrap{
+            position: relative;
+        }
+
+        .select-wrap select{
+            padding: 10px 40px 10px 10px; /* sağdan icon boşluğu */
+
+            appearance: none;
+            -webkit-appearance: none;
+            -moz-appearance: none;
+        }
+
+        /* custom ok */
+        .select-wrap::after{
+            content: "▼";
+            position: absolute;
+            top: 50%;
+            right: 15px;     /* 👈 burayı sola-sağa oynat */
+            transform: translateY(-50%);
+            pointer-events: none;
+            font-size: 15px;
+            color: #333;
+        }
+
+        header {
+            display: flex;
+            justify-content: center;
+            align-content: center;
+            padding: 30px;
+        }
+
+        header img {
+            margin: auto;
+        }
+
+
+        .hero {
+            color: #1E293B;
+
+        }
+
+        .hero-title {
+            color: #1E293B;
+            font-family: var(--font-amaranth);
+            font-weight: var(--bold);
+            font-size: 70px;
+            line-height: 75px;
+            text-align: center;
+            display: block;
+            padding-top: 65px;
+            margin-bottom: 30px;
+
+        }
+
+        .hero-subtitle {
+            color: #1E293B;
+            font-family: var(--font-plus-jakarta);
+            font-weight: var(--regular);
+            font-size: 35px;
+            line-height: 42px;
+            text-align: center;
+            margin-bottom: 30px;
+
+        }
+
+        .blured-div {
+            margin: 10px auto 0;
+            padding: 10px 20px;
+            max-width: 795px;
+            backdrop-filter: blur(13px);
+            background: rgba(255, 255, 255, 0.1);
+            padding-bottom: 50px;
+            border-top-left-radius: 12px;
+            border-top-right-radius: 12px;
+        }
+
+        .blured-div span {
+            color: #707070;
+
+        }
+
+        .form-input {
+            display: flex;
+            flex-direction: column;
+            margin: 15px auto;
+            color: #707070;
+            overflow: visible;
+            background: #fff !important;
+
+        }
+
+        .iti {
+            width: 100%;
+        }
+
+        .form-input input,
+        .form-input select {
+            height: 70px;
+            font-size: 19px;
+            padding: 12px 10px;
+            border: 1px solid #B4B4B4;
+            border-radius: 5px;
+            color: #888;
+
+        }
+
+        .form-btn {
+            width: 55%;
+            margin: 10px auto;
+            background-color: var(--primary-color);
+            color: #fff;
+            border-radius: 5px;
+            text-align: center;
+        }
+
+        .submit-btn {
+            background-color: var(--primary-color);
+            border: none
+        }
+
+        .form-btn p {
+
+            padding: 8px;
+            font-size: 24px;
+            font-family: var(--font-plus-jakarta);
+            font-weight: var(--bold);
+            color: #fff;
+            margin-bottom: 0px;
+        }
+
+        .form-text-1 {
+            color: #000000;
+            font-size: 20px;
+            font-weight: var(--regular);
+            font-family: var(--font-helvetica);
+            text-align: center;
+            margin-bottom: 38px;
+            font-style: italic;
+
+        }
+
+        .form-text-2 {
+            text-align: center;
+            color: #FFFFFF;
+            font-size: 27px;
+            font-family: var(--font-dm-sans);
+            font-weight: var(--bold);
+            margin-bottom: 15px;
+
+        }
+
+        .wp-btn {
+            margin: auto;
+            margin-bottom: 50px;
+            display: flex;
+            align-content: center;
+            background-color: #41BE55;
+            max-width: 335px;
+            border-radius: 45px;
+        }
+
+        .wp-btn img {
+            margin: 0px 0px 0px 24px;
+            ;
+        }
+
+        .wp-btn p {
+            margin: 15px;
+            align-content: center;
+            font-size: 25px;
+            font-family: var(--font-helvetica);
+            font-weight: var(--bold);
+        }
+
+        .hero-bottom {
+            padding: 10px 5px;
+            width: 100%;
+            z-index: 5;
+            background-color: #1E293B;
+            display: flex;
+            justify-content: space-evenly;
+        }
+
+        .hero-bottom p {
+            color: #FFFFFF;
+            font-size: 30px;
+            font-family: var(--font-amaranth);
+            font-weight: var(--regular);
+            align-content: center;
+
+        }
+
+        .sub-title {
+            color: #707070;
+            text-align: center;
+            font-family: var(--font-helvetica);
+            font-weight: var(--bold);
+            font-size: 45px;
+            margin: 70px 0 55px;
+        }
+
+        .rooms {
+            margin: 0 100px;
+            display: flex;
+            justify-content: space-evenly;
+        }
+
+        .room-card {
+            width: 400px;
+            margin: 0 0px;
+        }
+
+        .room-img {
+            max-height: 400px;
+            line-height: 0;
+            /* This should fix it */
+
+        }
+
+        .room-img img {
+            width: 100%;
+            object-fit: cover;
+            display: block;
+            /* And this */
+
+        }
+
+        .room-detail {
+            border: 1px solid #707070;
+            border-bottom-left-radius: 13px;
+            border-bottom-right-radius: 13px;
+            border-top: none;
+            overflow: hidden;
+            /* This contains margins */
+            padding: 1px 0;
+            /* Small padding prevents margin collapse */
+        }
+
+        .room-info {
+            margin: auto 20px;
+            font-size: 26px;
+            font-family: var(--font-dm-sans);
+            font-weight: var(--bold);
+
+        }
+
+        .room-name {
+            margin-bottom: 5px;
+        }
+
+        .room-location {
+            display: flex;
+            font-size: 20px;
+            font-family: var(--font-dm-sans);
+            font-weight: var(--regular);
+        }
+
+        .room-location img {
+            height: 27px;
+            width: 27px;
+        }
+
+        .room-location p {
+            font-size: 19px;
+            line-height: 20px;
+            color: #969696;
+            font-family: var(--font-dm-sans);
+            font-weight: var(--regular);
+        }
+
+        .price-btn {
+            display: flex;
+            justify-content: flex-end;
+            margin-top: 10px;
+            margin-bottom: 15px;
+
+        }
+
+
+
+        .price-btn p {
+            align-self: flex-end;
+            text-align: center;
+            font-size: 17px;
+            font-family: var(--font-helvetica);
+            font-weight: var(--bold);
+            padding: 10px 42px;
+            background: #1E293B;
+            max-width: 170px;
+            max-height: 45px;
+            border-radius: 14px;
+            color: #fff;
+        }
+
+        .big-btn {
+            text-align: center;
+            font-size: 40px;
+            font-family: var(--font-helvetica);
+            font-weight: var(--bold);
+
+        }
+
+        .big-btn p {
+            color: #fff;
+            max-width: 560px;
+            min-width: 157px;
+            width: 35%;
+            margin: auto;
+            background-color: var(--primary-color);
+            align-content: center;
+            padding: 12px;
+            margin: 110px auto;
+        }
+
+
+        .icon-div {
+            display: grid;
+            gap: 20px;
+            grid-template-columns: repeat(6, 1fr);
+            padding: 30px;
+
+        }
+
+        .single-item {
+            display: flex;
+            justify-content: center;
+            flex-direction: column;
+            text-align: center;
+            font-family: var(--font-plus-jakarta);
+            font-weight: var(--regular);
+            font-size: 24px;
+            line-height: 29px;
+        }
+
+
+
+        .single-item-image {
+            width: 109px;
+            height: 109px;
+            background-color: var(--primary-color);
+            align-content: center;
+            border-radius: 12px;
+            border: 1px solid #E2E2E2;
+            margin: auto;
+        }
+
+        .bottom-sec {
+            margin-bottom: 180px;
+        }
+
+
+
+        /*tst*/
+        /* =========================
+        SWIPER ROOMS SLIDER
+        ========================= */
+
+        .rooms-swiper {
+            width: 100%;
+            padding: 20px 0 60px;
+        }
+
+        .rooms-swiper .swiper-wrapper {
+            display: flex;
+        }
+
+        .rooms-swiper .swiper-slide {
+            display: flex;
+            justify-content: center;
+        }
+
+        /* Room card stays same */
+        .room-card {
+            width: 100%;
+            max-width: 400px;
+        }
+
+        /* Navigation arrows */
+        .rooms-swiper .swiper-button-next,
+        .rooms-swiper .swiper-button-prev {
+            color: #1E293B;
+        }
+
+        /* Pagination dots */
+        .rooms-swiper .swiper-pagination-bullet {
+            background: #CBD5E1;
+            opacity: 1;
+        }
+
+        .rooms-swiper .swiper-pagination-bullet-active {
+            background: var(--primary-color);
+        }
+
+        .rooms-swiper {
+            position: relative;
+            padding-bottom: 60px;
+            /* pagination için yer aç */
+        }
+
+        .rooms-swiper .swiper-pagination {
+            position: relative;
+            /* absolute yerine */
+            margin-top: 30px;
+            bottom: auto;
+        }
+
+        .rooms-swiper {
+            width: 90%;
+            padding: 20px 0 60px;
+        }
+
+        .form-input-message textarea {
+            width: 100%;
+            padding: 12px;
+            font-size: 16px;
+            font-family: var(--font-amaranth);
+
+            border: 1px solid #B4B4B4;
+            border-radius: 5px;
+
+            outline: none;
+            resize: none;
+
+            box-sizing: border-box;
+        }
+
+        /*later added*/
+
+
+
+        /*tst*/
+
+        .form-input {
+            position: relative;
+            margin-bottom: 20px;
+        }
+
+        .form-input .custom-input {
+            padding: 12px 15px;
+            font-size: 19px;
+        }
+
+        .form-input span {
+            position: absolute;
+            left: 10px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: #888;
+            pointer-events: none;
+            background: none;
+            padding: 0 5px;
+            transition: 0.2s ease;
+            font-size: 19px;
+            padding: 12px 10px;
+
+
+        }
+
+        /* Float label */
+        .form-input .custom-input:focus+span,
+        .form-input .custom-input:not(:placeholder-shown)+span {
+            top: 15px;
+            font-size: 14px;
+            color: #888;
+            /* bootstrap primary */
+        }
+
+        .form-input-message {
+            width: 100%;
+        }
+
+        .form-input-message textarea {
+            color: #888;
+        }
+
+        .iti {
+            width: 100%;
+        }
+
+        .iti__country-list {
+            z-index: 9999;
+        }
+
+        .form-input,
+        .blured-div,
+        .hero {
+            overflow: visible !important;
+        }
+
+        /*later added*/
+
+
+        /* Responsive tweaks */
+
+        @media (min-width: 1921px) {
+
+            .icon-div {
+                padding: 55PX;
+            }
+        }
+
+
+        @media (max-width: 1700px) {
+
+            .rooms-swiper {
+                width: 100%;
+            }
+        }
+
+
+        @media (max-width: 1024px) {
+
+            .form-input input,
+            .form-input select {
+                height: 48px;
+                font-size: 20px;
+            }
+
+            textarea{
+                font-size:20px;
+            }
+
+            .hero-title {
+                font-size: 50px;
+                line-height: 50px;
+            }
+
+            .hero-subtitle {
+                font-size: 25px;
+                line-height: 28px;
+            }
+
+            .icon-div {
+                grid-template-columns: repeat(3, 1fr);
+            }
+
+            .room-card {
+                width: 340px;
+            }
+
+            .big-btn {
+                font-size: 22px;
+            }
+
+            .room-info {
+                font-size: 20px;
+            }
+
+            .sub-title {
+
+                font-size: 25px;
+            }
+        }
+
+        @media (max-width: 768px) {
+
+            .form-input input,
+            .form-input select {
+                height: 48px;
+                font-size: 16px;
+            }
+
+
+            textarea{
+                font-size:16px;
+            }
+
+            .hero-title {
+                font-size: 30px;
+                line-height: 30px;
+            }
+
+            .hero-subtitle {
+                font-size: 20px;
+                line-height: 24px;
+            }
+
+            .room-card {
+                width: 90%;
+            }
+
+            .room-location p {
+                font-size: 16px;
+            }
+
+            .big-btn {
+                font-size: 18px;
+            }
+
+            .sub-title {
+
+                font-size: 25px;
+            }
+
+            .single-item {
+
+                font-size: 18px;
+            }
+
+            .big-btn p {
+                color: #fff;
+                max-width: 560px;
+                min-width: 60px;
+                width: 80%;
+                background-color: var(--primary-color);
+                align-content: center;
+                margin: 20px auto 60px;
+                padding: 6px;
+
+            }
+
+            .price-btn {
+                margin-top: 6px;
+                margin-bottom: 12px;
+            }
+
+            .price-btn p {
+                font-size: 12px;
+                padding: 4px 12px;
+                background: #1E293B;
+                max-width: 170px;
+                max-height: 25px;
+                border-radius: 14px;
+                color: #fff;
+            }
+
+
+            .form-input .custom-input:focus+span,
+            .form-input .custom-input:not(:placeholder-shown)+span {
+                top: 9px;
+                font-size: 10px;
+                color: #888;
+                /* bootstrap primary */
+            }
+
+
+            .form-input span {
+
+                font-size: 14px;
+
+            }
+
+            @media (max-width: 500px) {
+
+
+                header {
+                    /*display: none;*/
+                }
+
+
+                .form-input input,
+                .form-input select {
+                    height: 48px;
+                    font-size: 10px;
+
+                }
+
+                textarea{
+                    font-size:10px;
+                }
+
+                .hero-title {
+                    font-size: 25px;
+                    line-height: 22px;
+                }
+
+                .hero-subtitle {
+                    font-size: 15px;
+                    line-height: 18px;
+                }
+
+                .wp-btn {
+                    max-width: 125px;
+                    margin-bottom: 24px;
+
+                }
+
+                .wp-btn img {
+                    align-self: center;
+                    margin: 0px 0px 0px 13px;
+                    max-width: 11px;
+                    max-height: 11px;
+                }
+
+                .wp-btn p {
+                    font-size: 9px;
+                    margin: 5px 2px;
+                }
+
+                .icon-div {
+                    padding: 18px;
+                    gap: 10px;
+                }
+
+                .single-item-image {
+                    border-radius: 32px;
+                    width: 80px;
+                    height: 80px;
+                }
+
+                .room-card {
+                    width:
+                        65%;
+                }
+
+                .big-btn p {
+                    margin: 0px auto 20px;
+                }
+
+                .room-location p {
+                    font-size: 10px;
+                    line-height: 10px;
+                }
+
+                .room-info {
+                    font-size: 14px;
+                    min-height: 100px;
+                }
+
+                .sub-title {
+
+                    font-size: 15px;
+                    margin: 22px 0 19px;
+                }
+
+                .big-btn {
+                    font-size: 16px;
+                }
+
+                .room-detail {
+                    min-height: 108px;
+                }
+
+                .price-btn {
+                    right: 95px;
+                    bottom: 0px;
+                    margin-top: 6px;
+                    position: absolute;
+                    margin-bottom: 12px;
+                }
+
+
+
+                .form-btn p {
+                    font-size: 11px;
+                }
+
+
+
+
+
+                .form-text-1 {
+                    font-size: 8px;
+                    margin-bottom: 17px;
+
+                }
+
+                .form-text-2 {
+                    font-size: 10px;
+                }
+
+                .blured-div {
+                    margin: -3px auto 0;
+                    padding: 5px 20px 0px;
+                    padding-bottom: 1px;
+                }
+
+                .form-input {
+
+                    margin: 5px auto;
+
+                }
+
+                .bottom-sec {
+                    margin-bottom: 80px;
+                }
+
+                .form-btn {
+                    width: 55%;
+                    margin: 10px auto;
+                    background-color: var(--primary-color);
+                    color: #fff;
+                    border-radius: 5px;
+                    border-radius: 0;
+                    margin-top: 20px;
+                }
+
+                .form-input .custom-input:focus+span,
+                .form-input .custom-input:not(:placeholder-shown)+span {
+                    top: 5px;
+                    font-size: 6px;
+                    color: #888;
+                    /* bootstrap primary */
+                }
+
+
+                .form-input span {
+
+                    font-size: 10px;
+
+                }
+
+                .form-input .custom-input {
+                    font-size: 10px;
+                }
+
+                .iti--separate-dial-code.iti--show-flags .iti__selected-dial-code {
+                    font-size: 10px
+                }
+
+                .single-item {
+                    font-size: 14px;
+                    line-height: 17px;
+                }
+            }
+
+        }
+
+        @media(max-width:400px) {
+            .price-btn {
+                right: 75px;
+
+            }
+        }
+        select::placeholder, input::placeholder {
+            color: #888 !important;
+        }
+        #whatsapp-label { font-size: 19px; }
+        @media (max-width: 1200px) { #whatsapp-label { font-size: 20px; } }
+        @media (max-width: 768px)  { #whatsapp-label { font-size: 16px; } }
+        @media (max-width: 600px)  { #whatsapp-label { font-size: 10px; } }
+    </style>
+
+
+    <!-- Amaranth (Regular 400, Bold 700) -->
+    <link href="https://fonts.googleapis.com/css2?family=Amaranth:wght@400;700&display=swap" rel="stylesheet">
+
+    <!-- Plus Jakarta Sans (Regular 400) -->
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400&display=swap" rel="stylesheet">
+
+    <!-- DM Sans (Regular 400, Bold 700) -->
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/intl-tel-input@18.2.1/build/css/intlTelInput.css" />
+
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MXH64NM"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <header style=>
+        <a href="https://londonist.co.uk/" target="_blank" class="links">
+            <img src="https://londonist.co.uk/assets/images/landing-pages/lp1/src/hero/londonist.svg" alt="">
+        </a>
+
+    </header>
+
+    <Section
+        style="background: url(https://londonist.co.uk/assets/images/landing-pages/lp1/src/hero/hero.webp); background-repeat: no-repeat; background-size: cover;">
+        <div class="hero">
+            <h1 class="hero-title">FIND YOUR PERFECT STUDENT <br> ROOM IN LONDON</h1>
+            <p class="hero-subtitle">Safe, Flexible stays. Verified residences. Fast booking support.</p>
+
+            <div class="blured-div">
+                <div>
+                    <form action="https://londonist.co.uk/landing-submit" id="leadFormlp" method="post" class="js-SendForm" enctype="multipart/form-data">
+                        <input type="hidden" name="_token" value="OawdCAJnY22fK2WMSgwA7Qta4hPazOsO1mLHmn1q" autocomplete="off">                        <input type="hidden" name="utm_source" value="">
+                        <input type="hidden" name="utm_medium" value="">
+                        <input type="hidden" name="utm_campaign" value="">
+
+                        <input type="hidden" name="utm_term" value="">
+                        <input type="hidden" name="utm_content" value="">
+
+                        <input type="hidden" id="gclid_field" name="gclid_field" value="">
+                        <input type="hidden" id="fbclid" name="fbclid" value="">
+                        <input type="hidden" id="msclkid" name="msclkid" value="">
+                        <input type="hidden" name="phone_country_code" class="phone-country-code" value="+44">
+
+                        <div class="form-group">
+                            <div class="form-input">
+                                <input class="form-control custom-input " type="text" name="fName" id="full-name"
+                                    placeholder="Full Name *" required />
+                            </div>
+                        </div>
+                        <div class="form-group">
+
+                            <div class="form-input">
+                                <input class="form-control custom-input " type="email" name="fEmail" id="email"
+                                    placeholder="Email Address *" required />
+
+                            </div>
+                            <div class="form-input">
+                                <input class="form-control custom-input " type="tel" name="fPhone" id="phone"
+                                    placeholder="Phone Number *" required />
+
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="form-input select-wrap">
+                                <select name="academic_year" required id="year">
+                                    <option value="" disabled="" selected="">Academic Year *</option>
+                                                                                                                                <option value="2025/2026">
+                                                    2025/2026  
+
+                                                                                                            (Until September 2026)
+                                                    
+                                                </option>
+                                                                                                                                                                                <option value="2026/2027">
+                                                    2026/2027  
+
+                                                                                                            (From September 2026)
+                                                    
+                                                </option>
+                                                                                                                                                                                                        </select>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="form-input form-input-message">
+                                <textarea class="form-control custom-input" name="fMessage" id="message" placeholder="Message (optional)" rows="3"></textarea>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="form-input" style="flex-direction: row; align-items: center; gap: 12px; padding: 0 12px; height: 70px; border: 1px solid #B4B4B4; border-radius: 5px; background: #fff; cursor: pointer;">
+                                <input type="hidden" name="whatsapp-reach" value="0">
+                                <input type="checkbox" name="whatsapp-reach" id="whatsapp-reach" value="1" checked
+                                    style="width: 20px; height: 20px; min-width: 20px; accent-color: var(--primary-color); cursor: pointer;">
+                                <label for="whatsapp-reach" id="whatsapp-label" style="margin: 0; color: #888; font-family: var(--font-helvetica); cursor: pointer; line-height: 1.3;">
+                                    I agree to be contacted via WhatsApp
+                                </label>
+                            </div>
+                        </div>
+                        <div class="form-input form-btn">
+                            <button type="button" class=" submit-btn submit-form">
+                                <p>
+                                    Get Availability & Prices
+                                </p>
+                            </button>
+                        </div>
+                    </form>
+                    <p class="form-text-1">Reply within 10–30 mins (working hours)</p>
+                    <p class="form-text-2">Prefer WhatsApp? Chat now</p>
+                    <div>
+                        <a href="https://api.whatsapp.com/send/?phone=%2B447782361490&text=Hi+there%21+I%27m+interested+in+learning+more+about+the+accommodation+options+you+offer.&type=phone_number&app_absent=0" class="links" target="_blank">
+                            <div class="wp-btn">
+                                <img src="https://londonist.co.uk/assets/images/landing-pages/lp1/src/hero/wp.svg" alt="">
+                                <p>Chat on WhatsApp</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div></div>
+                </div>
+            </div>
+
+
+
+            <div class="hero-bottom">
+                <img src="https://londonist.co.uk/assets/images/landing-pages/lp1/src/hero/Artboard.webp" alt=""
+                    style="width: 100%;">
+
+            </div>
+
+    </Section>
+
+    <section>
+        <div>
+            <p class="sub-title">TOP STUDENT RESIDENCES IN LONDON</p>
+        </div>
+
+        <div class="swiper rooms-swiper">
+            <div class="swiper-wrapper">
+
+                <!-- Slide 1 -->
+                <div class="swiper-slide">
+                    <div class="room-card">
+                        <div class="room-img">
+                            <img src="https://londonist.co.uk/assets/images/landing-pages/lp1/src/rooms/Drapery.webp" alt="">
+                        </div>
+                        <div class="room-detail">
+                            <div class="room-info">
+                                <p class="room-name">Drapery Place</p>
+                                <div class="room-location">
+                                    <img src="https://londonist.co.uk/assets/images/landing-pages/lp1/src/rooms/location-icon.svg"
+                                        alt="">
+                                    <p>65 Leman Street, London E1 8EU, United Kingdom</p>
+                                </div>
+                                <a href="#">
+                                    <div class="price-btn">
+                                        <p>Get Prices</p>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Slide 2 -->
+                <div class="swiper-slide">
+                    <div class="room-card">
+                        <div class="room-img">
+                            <img src="https://londonist.co.uk/assets/images/landing-pages/lp1/src/rooms/Paddington.webp" alt="">
+                        </div>
+                        <div class="room-detail">
+                            <div class="room-info">
+                                <p class="room-name">Paddington Citi View</p>
+                                <div class="room-location">
+                                    <img src="https://londonist.co.uk/assets/images/landing-pages/lp1/src/rooms/location-icon.svg"
+                                        alt="">
+                                    <p>15 - 25 Talbot Square, London, W2 1TT</p>
+                                </div>
+                                <a href="#">
+                                    <div class="price-btn">
+                                        <p>Get Prices</p>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Slide 3 -->
+                <div class="swiper-slide">
+                    <div class="room-card">
+                        <div class="room-img">
+                            <img src="https://londonist.co.uk/assets/images/landing-pages/lp1/src/rooms/Kings.webp" alt="">
+                        </div>
+                        <div class="room-detail">
+                            <div class="room-info">
+                                <p class="room-name">King’s Cross</p>
+                                <div class="room-location">
+                                    <img src="https://londonist.co.uk/assets/images/landing-pages/lp1/src/rooms/location-icon.svg"
+                                        alt="">
+                                    <p>200 Pentonville Rd, London N1 9JP, United Kingdom</p>
+                                </div>
+                                <a href="#">
+                                    <div class="price-btn">
+                                        <p>Get Prices</p>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Slide 4 -->
+                <div class="swiper-slide">
+                    <div class="room-card">
+                        <div class="room-img">
+                            <img src="https://londonist.co.uk/assets/images/landing-pages/lp1/src/rooms/Spitalfields.webp" alt="">
+                        </div>
+                        <div class="room-detail">
+                            <div class="room-info">
+                                <p class="room-name">Spitalfields Residence</p>
+                                <div class="room-location">
+                                    <img src="https://londonist.co.uk/assets/images/landing-pages/lp1/src/rooms/location-icon.svg"
+                                        alt="">
+                                    <p>9 Frying Pan Alley, London E1 7HS, United Kingdom</p>
+                                </div>
+                                <a href="#">
+                                    <div class="price-btn">
+                                        <p>Get Prices</p>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <!-- Controls -->
+            <div class="swiper-pagination"></div>
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
+        </div>
+        <div>
+            <div class="big-btn" style="cursor:pointer">
+                <p> <a href="#" class="links"> VIEW ALL RESIDENCES </a> </p>
+            </div>
+        </div>
+    </section>
+    <section class="bottom-sec">
+        <div class="icon-div">
+            <div class="single-item">
+                <div class="single-item-image"><img
+                        src="https://londonist.co.uk/assets/images/landing-pages/lp1/src/service-icons/Wii-Fi.svg" alt=""></div>
+
+                <p>Free Internet <br> Access</p>
+            </div>
+            <div class="single-item">
+                <div class="single-item-image"><img
+                        src="https://londonist.co.uk/assets/images/landing-pages/lp1/src/service-icons/cctv.svg" alt=""></div>
+
+
+                <p>24/7 <br>CCTV</p>
+            </div>
+            <div class="single-item">
+                <div class="single-item-image"><img
+                        src="https://londonist.co.uk/assets/images/landing-pages/lp1/src/service-icons/bill.svg" alt=""></div>
+
+
+                <p>All Bills<br> Included</p>
+            </div>
+            <div class="single-item">
+                <div class="single-item-image"><img
+                        src="https://londonist.co.uk/assets/images/landing-pages/lp1/src/service-icons/game.svg" alt=""></div>
+
+
+                <p>Game <br>Areas</p>
+            </div>
+            <div class="single-item">
+                <div class="single-item-image"><img
+                        src="https://londonist.co.uk/assets/images/landing-pages/lp1/src/service-icons/Gym.svg" alt=""></div>
+
+                <p>Fitness <br>Center</p>
+            </div>
+            <div class="single-item">
+                <div class="single-item-image"><img
+                        src="https://londonist.co.uk/assets/images/landing-pages/lp1/src/service-icons/cleaning.svg" alt="">
+                </div>
+
+                <p>Room <br>Cleaning</p>
+            </div>
+        </div>
+    </section>
+    <!-- Swiper JS -->
+    <script src="https://cdn.jsdelivr.net/npm/intl-tel-input@18.2.1/build/js/intlTelInput.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/intl-tel-input@18.2.1/build/js/utils.js"></script>
+     <script src="https://londonist.co.uk/assets/js/jquery.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+    <script>
+
+        const roomsSwiper = new Swiper('.rooms-swiper', {
+            loop: true,
+            spaceBetween: 10,
+
+            pagination: {
+                el: '.swiper-pagination',
+                clickable: true,
+            },
+
+            navigation: {
+                nextEl: '.swiper-button-next',
+                prevEl: '.swiper-button-prev',
+            },
+
+            breakpoints: {
+                0: {
+                    slidesPerView: 1,
+                },
+
+                500: {
+                    slidesPerView: 1,
+                },
+
+                768: {
+                    slidesPerView: 2,
+                },
+
+                1300: {
+                    slidesPerView: 3,
+                },
+
+                1700: {
+                    slidesPerView: 4.
+                }
+
+            }
+        });
+        document.addEventListener("DOMContentLoaded", () => {
+
+            const input = document.querySelector("#phone"); //get input id = phone
+
+                if (!input || !window.intlTelInput) return;
+
+                let iti = window.intlTelInput(input, {
+                    initialCountry: "gb",
+                    separateDialCode: true,
+                    dropdownContainer: document.body,
+                    preferredCountries: ["gb", "tr", "cn"],
+                    utilsScript:
+                        "https://cdn.jsdelivr.net/npm/intl-tel-input@18.2.1/build/js/utils.js",
+                });
+
+                function updateCountryCode() {
+                    const hiddenInput = document.querySelector(`input[name="phone_country_code"]`);
+                    let code = iti.getSelectedCountryData().dialCode; // i.e: 44
+                    hiddenInput.value = "+" + code;
+                }
+
+                input.addEventListener("countrychange", updateCountryCode);
+
+            });
+            $(document).on("click", ".submit-form", function (e) {
+                e.preventDefault();
+
+                let $btn = $(this);
+                let form = $("#leadFormlp")[0];
+
+                $btn.prop("disabled", true);
+
+                if (form.checkValidity()) {
+                        form.submit();
+                } else {
+                    form.reportValidity();
+                    $btn.prop("disabled", false); // tekrar aktif et
+                }
+            });
+
+
+    </script>
+
+</body>
+
+</html>

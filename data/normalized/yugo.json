@@ -1,0 +1,174 @@
+[
+  {
+    "source": "yugo",
+    "source_url": "https://yugo.com/en-us/global/united-kingdom/london",
+    "id": "yugo:the-curve",
+    "name": "The Curve",
+    "url": "https://yugo.com/en-us/global/united-kingdom/london/the-curve",
+    "price_text": null,
+    "price_value": null,
+    "price_currency": null,
+    "price_period": null,
+    "price_low": null,
+    "price_high": null,
+    "deposit_min": null,
+    "deposit_max": null,
+    "address": null,
+    "city": "London",
+    "country": "UK",
+    "postal_code": null,
+    "lat": null,
+    "lng": null,
+    "image": null,
+    "description": null,
+    "rating": null,
+    "rating_count": null,
+    "amenities": [],
+    "commute_walk_min": null,
+    "commute_transit_min": null,
+    "commute_drive_min": null,
+    "transit_fare": null,
+    "cancellation_policy": null,
+    "payment_plan": null,
+    "type": "student_accommodation",
+    "raw": {
+      "itemListEntry": {
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@id": "//yugo.com/en-us/global/united-kingdom/london/the-curve",
+          "name": "The Curve"
+        }
+      }
+    }
+  },
+  {
+    "source": "yugo",
+    "source_url": "https://yugo.com/en-us/global/united-kingdom/london",
+    "id": "yugo:therese-house",
+    "name": "Therese House",
+    "url": "https://yugo.com/en-us/global/united-kingdom/london/therese-house",
+    "price_text": null,
+    "price_value": null,
+    "price_currency": null,
+    "price_period": null,
+    "price_low": null,
+    "price_high": null,
+    "deposit_min": null,
+    "deposit_max": null,
+    "address": null,
+    "city": "London",
+    "country": "UK",
+    "postal_code": null,
+    "lat": null,
+    "lng": null,
+    "image": null,
+    "description": null,
+    "rating": null,
+    "rating_count": null,
+    "amenities": [],
+    "commute_walk_min": null,
+    "commute_transit_min": null,
+    "commute_drive_min": null,
+    "transit_fare": null,
+    "cancellation_policy": null,
+    "payment_plan": null,
+    "type": "student_accommodation",
+    "raw": {
+      "itemListEntry": {
+        "@type": "ListItem",
+        "position": 2,
+        "item": {
+          "@id": "//yugo.com/en-us/global/united-kingdom/london/therese-house",
+          "name": "Therese House"
+        }
+      }
+    }
+  },
+  {
+    "source": "yugo",
+    "source_url": "https://yugo.com/en-us/global/united-kingdom/london",
+    "id": "yugo:element-bermondsey",
+    "name": "Element Bermondsey",
+    "url": "https://yugo.com/en-us/global/united-kingdom/london/element-bermondsey",
+    "price_text": null,
+    "price_value": null,
+    "price_currency": null,
+    "price_period": null,
+    "price_low": null,
+    "price_high": null,
+    "deposit_min": null,
+    "deposit_max": null,
+    "address": null,
+    "city": "London",
+    "country": "UK",
+    "postal_code": null,
+    "lat": null,
+    "lng": null,
+    "image": null,
+    "description": null,
+    "rating": null,
+    "rating_count": null,
+    "amenities": [],
+    "commute_walk_min": null,
+    "commute_transit_min": null,
+    "commute_drive_min": null,
+    "transit_fare": null,
+    "cancellation_policy": null,
+    "payment_plan": null,
+    "type": "student_accommodation",
+    "raw": {
+      "itemListEntry": {
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@id": "//yugo.com/en-us/global/united-kingdom/london/element-bermondsey",
+          "name": "Element Bermondsey"
+        }
+      }
+    }
+  },
+  {
+    "source": "yugo",
+    "source_url": "https://yugo.com/en-us/global/united-kingdom/london",
+    "id": "yugo:depot-point",
+    "name": "Depot Point",
+    "url": "https://yugo.com/en-us/global/united-kingdom/london/depot-point",
+    "price_text": null,
+    "price_value": null,
+    "price_currency": null,
+    "price_period": null,
+    "price_low": null,
+    "price_high": null,
+    "deposit_min": null,
+    "deposit_max": null,
+    "address": null,
+    "city": "London",
+    "country": "UK",
+    "postal_code": null,
+    "lat": null,
+    "lng": null,
+    "image": null,
+    "description": null,
+    "rating": null,
+    "rating_count": null,
+    "amenities": [],
+    "commute_walk_min": null,
+    "commute_transit_min": null,
+    "commute_drive_min": null,
+    "transit_fare": null,
+    "cancellation_policy": null,
+    "payment_plan": null,
+    "type": "student_accommodation",
+    "raw": {
+      "itemListEntry": {
+        "@type": "ListItem",
+        "position": 4,
+        "item": {
+          "@id": "//yugo.com/en-us/global/united-kingdom/london/depot-point",
+          "name": "Depot Point"
+        }
+      }
+    }
+  }
+]

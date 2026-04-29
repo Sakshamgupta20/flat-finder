@@ -1,0 +1,866 @@
+[
+  {
+    "source": "casita",
+    "source_url": "https://www.casita.com/student-accommodation/uk/london",
+    "id": "casita:north-lodge-unite",
+    "name": "North Lodge Unite",
+    "url": "https://www.casita.com/student-accommodation/213-north-lodge-unite-london-uk",
+    "price_text": "266",
+    "price_value": 266.0,
+    "price_currency": "GBP",
+    "price_period": "week",
+    "price_low": null,
+    "price_high": null,
+    "deposit_min": null,
+    "deposit_max": null,
+    "address": "Lebus Street, Tottenham, London, N17 9FQ",
+    "city": "Lebus Street, Tottenham, London, N17 9FQ",
+    "country": null,
+    "postal_code": "N17 9FQ",
+    "lat": 51.5901946,
+    "lng": -0.058722699999976,
+    "image": "https://images.casita.com/uploads/buildings/213/building/thumb/north-lodge-unite-london-165601154720230925072309AM-500x500.webp",
+    "description": "North Lodge Unite is one of the best London student accommodation close to London International University. Wi-Fi, all-inclusive bills, and laundry are available. Book Now!",
+    "rating": 4.6,
+    "rating_count": 7,
+    "amenities": [],
+    "commute_walk_min": null,
+    "commute_transit_min": null,
+    "commute_drive_min": null,
+    "transit_fare": null,
+    "cancellation_policy": null,
+    "payment_plan": null,
+    "type": "student_accommodation",
+    "raw": {
+      "hostel": {
+        "@context": "http://schema.org",
+        "@type": "Hostel",
+        "name": "North Lodge Unite",
+        "priceRange": "266",
+        "telephone": "+44 (0) 20 3871 8666",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Lebus Street, Tottenham, London, N17 9FQ",
+          "addressLocality": "Lebus Street, Tottenham, London, N17 9FQ",
+          "postalCode": "N17 9FQ"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "51.590194600000000",
+          "longitude": "-0.058722699999976"
+        }
+      },
+      "product": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "description": "North Lodge Unite is one of the best London student accommodation close to London International University. Wi-Fi, all-inclusive bills, and laundry are available. Book Now!",
+        "name": "North Lodge Unite",
+        "image": "https://images.casita.com/uploads/buildings/213/building/thumb/north-lodge-unite-london-165601154720230925072309AM-500x500.webp",
+        "offers": {
+          "@type": "Offer",
+          "price": "266",
+          "priceCurrency": "GBP"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.6,
+          "bestRating": "5",
+          "worstRating": "0",
+          "reviewCount": 7
+        }
+      }
+    }
+  },
+  {
+    "source": "casita",
+    "source_url": "https://www.casita.com/student-accommodation/uk/london",
+    "id": "casita:student-living-heights-unite",
+    "name": "Student Living Heights Unite",
+    "url": "https://www.casita.com/student-accommodation/222-student-living-heights-unite-london-uk",
+    "price_text": "432",
+    "price_value": 432.0,
+    "price_currency": "GBP",
+    "price_period": "week",
+    "price_low": null,
+    "price_high": null,
+    "deposit_min": null,
+    "deposit_max": null,
+    "address": "312 Goswell Road, Islington, London, EC1V 7AG",
+    "city": "312 Goswell Road, Islington, London, EC1V 7AG",
+    "country": null,
+    "postal_code": "EC1V 7AG",
+    "lat": 51.53014049999999,
+    "lng": -0.102570199999946,
+    "image": "https://images.casita.com/uploads/buildings/222/building/thumb/student-living-heights-unite-london-45067155220200329120900PM-500x500.jpeg",
+    "description": "Student Living Heights Unite is a student housing in London, close to the University of London. It has Wi-Fi, CCTV, bike storage, and a laundry room. Book now!",
+    "rating": 3.0,
+    "rating_count": 23,
+    "amenities": [],
+    "commute_walk_min": null,
+    "commute_transit_min": null,
+    "commute_drive_min": null,
+    "transit_fare": null,
+    "cancellation_policy": null,
+    "payment_plan": null,
+    "type": "student_accommodation",
+    "raw": {
+      "hostel": {
+        "@context": "http://schema.org",
+        "@type": "Hostel",
+        "name": "Student Living Heights Unite",
+        "priceRange": "432",
+        "telephone": "+44 (0) 20 3871 8666",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "312 Goswell Road, Islington, London, EC1V 7AG",
+          "addressLocality": "312 Goswell Road, Islington, London, EC1V 7AG",
+          "postalCode": "EC1V 7AG"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "51.530140499999990",
+          "longitude": "-0.102570199999946"
+        }
+      },
+      "product": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "description": "Student Living Heights Unite is a student housing in London, close to the University of London. It has Wi-Fi, CCTV, bike storage, and a laundry room. Book now!",
+        "name": "Student Living Heights Unite",
+        "image": "https://images.casita.com/uploads/buildings/222/building/thumb/student-living-heights-unite-london-45067155220200329120900PM-500x500.jpeg",
+        "offers": {
+          "@type": "Offer",
+          "price": "432",
+          "priceCurrency": "GBP"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 3,
+          "bestRating": "5",
+          "worstRating": "0",
+          "reviewCount": 23
+        }
+      }
+    }
+  },
+  {
+    "source": "casita",
+    "source_url": "https://www.casita.com/student-accommodation/uk/london",
+    "id": "casita:londonist---lewisham-exchange---(flexible-tenancies)",
+    "name": "Londonist - Lewisham Exchange - (Flexible Tenancies)",
+    "url": "https://www.casita.com/student-accommodation/102987-lewisham-exchange-london-uk",
+    "price_text": "375",
+    "price_value": 375.0,
+    "price_currency": "GBP",
+    "price_period": "week",
+    "price_low": null,
+    "price_high": null,
+    "deposit_min": null,
+    "deposit_max": null,
+    "address": "Exchange Point, Loampit Vale, London SE13 7NX, UK",
+    "city": "Exchange Point, Loampit Vale, London SE13 7NX, UK",
+    "country": null,
+    "postal_code": "SE13 7NX",
+    "lat": 51.465634,
+    "lng": -0.0187751,
+    "image": "https://images.casita.com/uploads/buildings/102987/building/thumb/lewisham-exchange-london-78852407020260406075800AM-500x500.jpg",
+    "description": "",
+    "rating": 3.0,
+    "rating_count": 3,
+    "amenities": [],
+    "commute_walk_min": null,
+    "commute_transit_min": null,
+    "commute_drive_min": null,
+    "transit_fare": null,
+    "cancellation_policy": null,
+    "payment_plan": null,
+    "type": "student_accommodation",
+    "raw": {
+      "hostel": {
+        "@context": "http://schema.org",
+        "@type": "Hostel",
+        "name": "Londonist - Lewisham Exchange - (Flexible Tenancies)",
+        "priceRange": "375",
+        "telephone": "+44 (0) 20 3871 8666",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Exchange Point, Loampit Vale, London SE13 7NX, UK",
+          "addressLocality": "Exchange Point, Loampit Vale, London SE13 7NX, UK",
+          "postalCode": "SE13 7NX"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "51.465634000000000",
+          "longitude": "-0.018775100000000"
+        }
+      },
+      "product": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "description": "",
+        "name": "Londonist - Lewisham Exchange - (Flexible Tenancies)",
+        "image": "https://images.casita.com/uploads/buildings/102987/building/thumb/lewisham-exchange-london-78852407020260406075800AM-500x500.jpg",
+        "offers": {
+          "@type": "Offer",
+          "price": "375",
+          "priceCurrency": "GBP"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 3,
+          "bestRating": "5",
+          "worstRating": "0",
+          "reviewCount": 3
+        }
+      }
+    }
+  },
+  {
+    "source": "casita",
+    "source_url": "https://www.casita.com/student-accommodation/uk/london",
+    "id": "casita:iq-sterling-court",
+    "name": "iQ Sterling Court",
+    "url": "https://www.casita.com/student-accommodation/542-iq-sterling-court-london-uk",
+    "price_text": "265",
+    "price_value": 265.0,
+    "price_currency": "GBP",
+    "price_period": "week",
+    "price_low": null,
+    "price_high": null,
+    "deposit_min": null,
+    "deposit_max": null,
+    "address": "6 Lakeside Way London HA9 0BU United Kingdom",
+    "city": "6 Lakeside Way London HA9 0BU United Kingdom",
+    "country": null,
+    "postal_code": "HA9 0BU",
+    "lat": 51.5573048,
+    "lng": -0.2841601,
+    "image": "https://images.casita.com/uploads/buildings/542/building/thumb/iq-sterling-court-london-139744044620230323103254AM-500x500.jpeg",
+    "description": "Sterling Court is one of the best London student accommodation close to the University of Westminster. Wi-Fi, all-inclusive bills, and laundry are available. Book Now!",
+    "rating": 3.1,
+    "rating_count": 132,
+    "amenities": [],
+    "commute_walk_min": null,
+    "commute_transit_min": null,
+    "commute_drive_min": null,
+    "transit_fare": null,
+    "cancellation_policy": null,
+    "payment_plan": null,
+    "type": "student_accommodation",
+    "raw": {
+      "hostel": {
+        "@context": "http://schema.org",
+        "@type": "Hostel",
+        "name": "iQ Sterling Court",
+        "priceRange": "265",
+        "telephone": "+44 (0) 20 3871 8666",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "6 Lakeside Way London HA9 0BU United Kingdom",
+          "addressLocality": "6 Lakeside Way London HA9 0BU United Kingdom",
+          "postalCode": "HA9 0BU"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "51.557304800000000",
+          "longitude": "-0.284160100000000"
+        }
+      },
+      "product": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "description": "Sterling Court is one of the best London student accommodation close to the University of Westminster. Wi-Fi, all-inclusive bills, and laundry are available. Book Now!",
+        "name": "iQ Sterling Court",
+        "image": "https://images.casita.com/uploads/buildings/542/building/thumb/iq-sterling-court-london-139744044620230323103254AM-500x500.jpeg",
+        "offers": {
+          "@type": "Offer",
+          "price": "265",
+          "priceCurrency": "GBP"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 3.1,
+          "bestRating": "5",
+          "worstRating": "0",
+          "reviewCount": 132
+        }
+      }
+    }
+  },
+  {
+    "source": "casita",
+    "source_url": "https://www.casita.com/student-accommodation/uk/london",
+    "id": "casita:emily-bowes-court-unite",
+    "name": "Emily Bowes Court Unite",
+    "url": "https://www.casita.com/student-accommodation/214-emily-bowes-court-unite-london-uk",
+    "price_text": "225",
+    "price_value": 225.0,
+    "price_currency": "GBP",
+    "price_period": "week",
+    "price_low": null,
+    "price_high": null,
+    "deposit_min": null,
+    "deposit_max": null,
+    "address": "Lebus Street, N17 9FD",
+    "city": "Lebus Street, N17 9FD",
+    "country": null,
+    "postal_code": "N17 9FD",
+    "lat": 51.58897899999999,
+    "lng": -0.0587559,
+    "image": "https://images.casita.com/uploads/buildings/214/building/thumb/emily-bowes-court-unite-london-111690888420230925080401AM-500x500.webp",
+    "description": "Emily Bowes Court Unite is one of the best London student accommodation close to London International University. Wi-Fi and laundry are available. Book Now!",
+    "rating": 3.4,
+    "rating_count": 164,
+    "amenities": [],
+    "commute_walk_min": null,
+    "commute_transit_min": null,
+    "commute_drive_min": null,
+    "transit_fare": null,
+    "cancellation_policy": null,
+    "payment_plan": null,
+    "type": "student_accommodation",
+    "raw": {
+      "hostel": {
+        "@context": "http://schema.org",
+        "@type": "Hostel",
+        "name": "Emily Bowes Court Unite",
+        "priceRange": "225",
+        "telephone": "+44 (0) 20 3871 8666",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Lebus Street, N17 9FD",
+          "addressLocality": "Lebus Street, N17 9FD",
+          "postalCode": "N17 9FD"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "51.588978999999990",
+          "longitude": "-0.058755900000000"
+        }
+      },
+      "product": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "description": "Emily Bowes Court Unite is one of the best London student accommodation close to London International University. Wi-Fi and laundry are available. Book Now!",
+        "name": "Emily Bowes Court Unite",
+        "image": "https://images.casita.com/uploads/buildings/214/building/thumb/emily-bowes-court-unite-london-111690888420230925080401AM-500x500.webp",
+        "offers": {
+          "@type": "Offer",
+          "price": "225",
+          "priceCurrency": "GBP"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 3.4,
+          "bestRating": "5",
+          "worstRating": "0",
+          "reviewCount": 164
+        }
+      }
+    }
+  },
+  {
+    "source": "casita",
+    "source_url": "https://www.casita.com/student-accommodation/uk/london",
+    "id": "casita:fifty-one-london",
+    "name": "Fifty One London",
+    "url": "https://www.casita.com/student-accommodation/242601-fifty-one-london-london-uk",
+    "price_text": "839",
+    "price_value": 839.0,
+    "price_currency": "GBP",
+    "price_period": "week",
+    "price_low": null,
+    "price_high": null,
+    "deposit_min": null,
+    "deposit_max": null,
+    "address": "51-55 Cromwell Rd, South Kensington, London SW7 2EH, United Kingdom",
+    "city": "51-55 Cromwell Rd, South Kensington, London SW7 2EH, United Kingdom",
+    "country": null,
+    "postal_code": "SW7 2EH",
+    "lat": 51.4944,
+    "lng": -0.1732,
+    "image": "https://images.casita.com/uploads/buildings/242601/building/thumb/fifty-one-london-london-206627809320260419094145AM-500x500.jpg",
+    "description": "",
+    "rating": 3.0,
+    "rating_count": 3,
+    "amenities": [],
+    "commute_walk_min": null,
+    "commute_transit_min": null,
+    "commute_drive_min": null,
+    "transit_fare": null,
+    "cancellation_policy": null,
+    "payment_plan": null,
+    "type": "student_accommodation",
+    "raw": {
+      "hostel": {
+        "@context": "http://schema.org",
+        "@type": "Hostel",
+        "name": "Fifty One London",
+        "priceRange": "839",
+        "telephone": "+44 (0) 20 3871 8666",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "51-55 Cromwell Rd, South Kensington, London SW7 2EH, United Kingdom",
+          "addressLocality": "51-55 Cromwell Rd, South Kensington, London SW7 2EH, United Kingdom",
+          "postalCode": "SW7 2EH"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "51.494400000000000",
+          "longitude": "-0.173200000000000"
+        }
+      },
+      "product": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "description": "",
+        "name": "Fifty One London",
+        "image": "https://images.casita.com/uploads/buildings/242601/building/thumb/fifty-one-london-london-206627809320260419094145AM-500x500.jpg",
+        "offers": {
+          "@type": "Offer",
+          "price": "839",
+          "priceCurrency": "GBP"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 3,
+          "bestRating": "5",
+          "worstRating": "0",
+          "reviewCount": 3
+        }
+      }
+    }
+  },
+  {
+    "source": "casita",
+    "source_url": "https://www.casita.com/student-accommodation/uk/london",
+    "id": "casita:aes-shoreditch",
+    "name": "AES Shoreditch",
+    "url": "https://www.casita.com/student-accommodation/236217-aes-shoreditch-london-uk",
+    "price_text": "750",
+    "price_value": 750.0,
+    "price_currency": "GBP",
+    "price_period": "week",
+    "price_low": null,
+    "price_high": null,
+    "deposit_min": null,
+    "deposit_max": null,
+    "address": "62 Cheshire Street, E2 6EH",
+    "city": "62 Cheshire Street, E2 6EH",
+    "country": null,
+    "postal_code": "E2 6EH",
+    "lat": 51.5235522,
+    "lng": -0.0689528,
+    "image": "https://images.casita.com/uploads/buildings/236217/building/thumb/aes-shoreditch-london-189752364520241127095332AM-500x500.jpeg",
+    "description": "",
+    "rating": 3.0,
+    "rating_count": 3,
+    "amenities": [],
+    "commute_walk_min": null,
+    "commute_transit_min": null,
+    "commute_drive_min": null,
+    "transit_fare": null,
+    "cancellation_policy": null,
+    "payment_plan": null,
+    "type": "student_accommodation",
+    "raw": {
+      "hostel": {
+        "@context": "http://schema.org",
+        "@type": "Hostel",
+        "name": "AES Shoreditch",
+        "priceRange": "750",
+        "telephone": "+44 (0) 20 3871 8666",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "62 Cheshire Street, E2 6EH",
+          "addressLocality": "62 Cheshire Street, E2 6EH",
+          "postalCode": "E2 6EH"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "51.523552200000000",
+          "longitude": "-0.068952800000000"
+        }
+      },
+      "product": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "description": "",
+        "name": "AES Shoreditch",
+        "image": "https://images.casita.com/uploads/buildings/236217/building/thumb/aes-shoreditch-london-189752364520241127095332AM-500x500.jpeg",
+        "offers": {
+          "@type": "Offer",
+          "price": "750",
+          "priceCurrency": "GBP"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 3,
+          "bestRating": "5",
+          "worstRating": "0",
+          "reviewCount": 3
+        }
+      }
+    }
+  },
+  {
+    "source": "casita",
+    "source_url": "https://www.casita.com/student-accommodation/uk/london",
+    "id": "casita:aes-angel",
+    "name": "AES Angel",
+    "url": "https://www.casita.com/student-accommodation/1840-aes-angel-london-uk",
+    "price_text": "730",
+    "price_value": 730.0,
+    "price_currency": "GBP",
+    "price_period": "week",
+    "price_low": null,
+    "price_high": null,
+    "deposit_min": null,
+    "deposit_max": null,
+    "address": "Ability Towers, 1 Macclesfield Rd, London EC1V 8AE, UK",
+    "city": "Ability Towers, 1 Macclesfield Rd, London EC1V 8AE, UK",
+    "country": null,
+    "postal_code": "EC1V 8AE",
+    "lat": 51.529359,
+    "lng": -0.0972229,
+    "image": "https://images.casita.com/uploads/buildings/1840/building/thumb/aes-angel-london-157344280920250818012258PM-500x500.jpeg",
+    "description": "It is located in Zone 1, Islington London Borough, a 6-minute walk to City, University of London a",
+    "rating": 2.0,
+    "rating_count": 35,
+    "amenities": [],
+    "commute_walk_min": null,
+    "commute_transit_min": null,
+    "commute_drive_min": null,
+    "transit_fare": null,
+    "cancellation_policy": null,
+    "payment_plan": null,
+    "type": "student_accommodation",
+    "raw": {
+      "hostel": {
+        "@context": "http://schema.org",
+        "@type": "Hostel",
+        "name": "AES Angel",
+        "priceRange": "730",
+        "telephone": "+44 (0) 20 3871 8666",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Ability Towers, 1 Macclesfield Rd, London EC1V 8AE, UK",
+          "addressLocality": "Ability Towers, 1 Macclesfield Rd, London EC1V 8AE, UK",
+          "postalCode": "EC1V 8AE"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "51.529359000000000",
+          "longitude": "-0.097222900000000"
+        }
+      },
+      "product": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "description": "It is located in Zone 1, Islington London Borough, a 6-minute walk to City, University of London a",
+        "name": "AES Angel",
+        "image": "https://images.casita.com/uploads/buildings/1840/building/thumb/aes-angel-london-157344280920250818012258PM-500x500.jpeg",
+        "offers": {
+          "@type": "Offer",
+          "price": "730",
+          "priceCurrency": "GBP"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 2,
+          "bestRating": "5",
+          "worstRating": "0",
+          "reviewCount": 35
+        }
+      }
+    }
+  },
+  {
+    "source": "casita",
+    "source_url": "https://www.casita.com/student-accommodation/uk/london",
+    "id": "casita:aes-aldgate",
+    "name": "AES Aldgate",
+    "url": "https://www.casita.com/student-accommodation/1841-aes-aldgate-london-uk",
+    "price_text": "1500",
+    "price_value": 1500.0,
+    "price_currency": "GBP",
+    "price_period": "week",
+    "price_low": null,
+    "price_high": null,
+    "deposit_min": null,
+    "deposit_max": null,
+    "address": "Alie St, London E1 8DA, UK",
+    "city": "Alie St, London E1 8DA, UK",
+    "country": null,
+    "postal_code": "E1 8DA",
+    "lat": 51.5139131,
+    "lng": -0.0706678,
+    "image": "https://images.casita.com/uploads/buildings/1841/building/thumb/alie-street-london-166446097120230622033353PM-500x500.jpeg",
+    "description": "It is located in Zone 1, Tower Hamlets London Borough, a 10-minute walk to Northumbria University",
+    "rating": 3.0,
+    "rating_count": 3,
+    "amenities": [],
+    "commute_walk_min": null,
+    "commute_transit_min": null,
+    "commute_drive_min": null,
+    "transit_fare": null,
+    "cancellation_policy": null,
+    "payment_plan": null,
+    "type": "student_accommodation",
+    "raw": {
+      "hostel": {
+        "@context": "http://schema.org",
+        "@type": "Hostel",
+        "name": "AES Aldgate",
+        "priceRange": "1,500",
+        "telephone": "+44 (0) 20 3871 8666",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Alie St, London E1 8DA, UK",
+          "addressLocality": "Alie St, London E1 8DA, UK",
+          "postalCode": "E1 8DA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "51.513913100000000",
+          "longitude": "-0.070667800000000"
+        }
+      },
+      "product": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "description": "It is located in Zone 1, Tower Hamlets London Borough, a 10-minute walk to Northumbria University",
+        "name": "AES Aldgate",
+        "image": "https://images.casita.com/uploads/buildings/1841/building/thumb/alie-street-london-166446097120230622033353PM-500x500.jpeg",
+        "offers": {
+          "@type": "Offer",
+          "price": "1500",
+          "priceCurrency": "GBP"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 3,
+          "bestRating": "5",
+          "worstRating": "0",
+          "reviewCount": 3
+        }
+      }
+    }
+  },
+  {
+    "source": "casita",
+    "source_url": "https://www.casita.com/student-accommodation/uk/london",
+    "id": "casita:aes-hoxton",
+    "name": "AES Hoxton",
+    "url": "https://www.casita.com/student-accommodation/242588-aes-hoxton-london-uk",
+    "price_text": "750",
+    "price_value": 750.0,
+    "price_currency": "GBP",
+    "price_period": "week",
+    "price_low": null,
+    "price_high": null,
+    "deposit_min": null,
+    "deposit_max": null,
+    "address": "97-137 Hackney Rd, London E2 8ET, UK",
+    "city": "97-137 Hackney Rd, London E2 8ET, UK",
+    "country": null,
+    "postal_code": "E2 8ET",
+    "lat": 51.5296637,
+    "lng": -0.0775339,
+    "image": "https://images.casita.com/uploads/buildings/242588/building/thumb/aes-hoxton-london-63880427520241211112354AM-500x500.jpeg",
+    "description": "",
+    "rating": 3.0,
+    "rating_count": 3,
+    "amenities": [],
+    "commute_walk_min": null,
+    "commute_transit_min": null,
+    "commute_drive_min": null,
+    "transit_fare": null,
+    "cancellation_policy": null,
+    "payment_plan": null,
+    "type": "student_accommodation",
+    "raw": {
+      "hostel": {
+        "@context": "http://schema.org",
+        "@type": "Hostel",
+        "name": "AES Hoxton",
+        "priceRange": "750",
+        "telephone": "+44 (0) 20 3871 8666",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "97-137 Hackney Rd, London E2 8ET, UK",
+          "addressLocality": "97-137 Hackney Rd, London E2 8ET, UK",
+          "postalCode": "E2 8ET"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "51.529663700000000",
+          "longitude": "-0.077533900000000"
+        }
+      },
+      "product": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "description": "",
+        "name": "AES Hoxton",
+        "image": "https://images.casita.com/uploads/buildings/242588/building/thumb/aes-hoxton-london-63880427520241211112354AM-500x500.jpeg",
+        "offers": {
+          "@type": "Offer",
+          "price": "750",
+          "priceCurrency": "GBP"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 3,
+          "bestRating": "5",
+          "worstRating": "0",
+          "reviewCount": 3
+        }
+      }
+    }
+  },
+  {
+    "source": "casita",
+    "source_url": "https://www.casita.com/student-accommodation/uk/london",
+    "id": "casita:glassyard-building",
+    "name": "Glassyard Building",
+    "url": "https://www.casita.com/student-accommodation/369-glassyard-building-london-uk",
+    "price_text": "410",
+    "price_value": 410.0,
+    "price_currency": "GBP",
+    "price_period": "week",
+    "price_low": null,
+    "price_high": null,
+    "deposit_min": null,
+    "deposit_max": null,
+    "address": "7A Stockwell Green, Stockwell, London, SW9 9JF",
+    "city": "7A Stockwell Green, Stockwell, London, SW9 9JF",
+    "country": null,
+    "postal_code": "SW9 9JF",
+    "lat": 51.4685203,
+    "lng": -0.1202455,
+    "image": "https://images.casita.com/uploads/buildings/369/building/thumb/glassyard-building-london-39466591420201206125553PM-500x500.jpeg",
+    "description": "Glassyard Building is one of the best London student accommodation close to the University of the Arts. Wi-Fi, all-inclusive bills, and laundry are available. Book Now!",
+    "rating": 4.1,
+    "rating_count": 45,
+    "amenities": [],
+    "commute_walk_min": null,
+    "commute_transit_min": null,
+    "commute_drive_min": null,
+    "transit_fare": null,
+    "cancellation_policy": null,
+    "payment_plan": null,
+    "type": "student_accommodation",
+    "raw": {
+      "hostel": {
+        "@context": "http://schema.org",
+        "@type": "Hostel",
+        "name": "Glassyard Building",
+        "priceRange": "410",
+        "telephone": "+44 (0) 20 3871 8666",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "7A Stockwell Green, Stockwell, London, SW9 9JF",
+          "addressLocality": "7A Stockwell Green, Stockwell, London, SW9 9JF",
+          "postalCode": "SW9 9JF"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "51.468520300000000",
+          "longitude": "-0.120245500000000"
+        }
+      },
+      "product": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "description": "Glassyard Building is one of the best London student accommodation close to the University of the Arts. Wi-Fi, all-inclusive bills, and laundry are available. Book Now!",
+        "name": "Glassyard Building",
+        "image": "https://images.casita.com/uploads/buildings/369/building/thumb/glassyard-building-london-39466591420201206125553PM-500x500.jpeg",
+        "offers": {
+          "@type": "Offer",
+          "price": "410",
+          "priceCurrency": "GBP"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.1,
+          "bestRating": "5",
+          "worstRating": "0",
+          "reviewCount": 45
+        }
+      }
+    }
+  },
+  {
+    "source": "casita",
+    "source_url": "https://www.casita.com/student-accommodation/uk/london",
+    "id": "casita:axo-oxford-circus",
+    "name": "AXO Oxford Circus",
+    "url": "https://www.casita.com/student-accommodation/1547-axo-oxford-circus-london-uk",
+    "price_text": "513",
+    "price_value": 513.0,
+    "price_currency": "GBP",
+    "price_period": "week",
+    "price_low": null,
+    "price_high": null,
+    "deposit_min": null,
+    "deposit_max": null,
+    "address": "2 Devonshire Street, Marylebone, London, W1W 5DB",
+    "city": "2 Devonshire Street, Marylebone, London, W1W 5DB",
+    "country": null,
+    "postal_code": "W1W 5DB",
+    "lat": 51.52254190000001,
+    "lng": -0.14432,
+    "image": "https://images.casita.com/uploads/buildings/1547/building/thumb/axo-oxford-circus-london-84382565920210105010206PM-500x500.jpeg",
+    "description": "AXO Oxford Circus is one of the best London student accommodation close to the University College London. Wi-Fi, all-inclusive bills, and laundry are available. Book Now!",
+    "rating": 4.8,
+    "rating_count": 9,
+    "amenities": [],
+    "commute_walk_min": null,
+    "commute_transit_min": null,
+    "commute_drive_min": null,
+    "transit_fare": null,
+    "cancellation_policy": null,
+    "payment_plan": null,
+    "type": "student_accommodation",
+    "raw": {
+      "hostel": {
+        "@context": "http://schema.org",
+        "@type": "Hostel",
+        "name": "AXO Oxford Circus",
+        "priceRange": "513",
+        "telephone": "+44 (0) 20 3871 8666",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "2 Devonshire Street, Marylebone, London, W1W 5DB",
+          "addressLocality": "2 Devonshire Street, Marylebone, London, W1W 5DB",
+          "postalCode": "W1W 5DB"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "51.522541900000010",
+          "longitude": "-0.144320000000000"
+        }
+      },
+      "product": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "description": "AXO Oxford Circus is one of the best London student accommodation close to the University College London. Wi-Fi, all-inclusive bills, and laundry are available. Book Now!",
+        "name": "AXO Oxford Circus",
+        "image": "https://images.casita.com/uploads/buildings/1547/building/thumb/axo-oxford-circus-london-84382565920210105010206PM-500x500.jpeg",
+        "offers": {
+          "@type": "Offer",
+          "price": "513",
+          "priceCurrency": "GBP"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.8,
+          "bestRating": "5",
+          "worstRating": "0",
+          "reviewCount": 9
+        }
+      }
+    }
+  }
+]

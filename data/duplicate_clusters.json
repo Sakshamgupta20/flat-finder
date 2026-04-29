@@ -1,0 +1,2197 @@
+[
+  {
+    "size": 5,
+    "members": [
+      {
+        "source": "universityliving",
+        "id": "universityliving:chapter-london-bridge",
+        "name": "Chapter London Bridge",
+        "url": "https://www.universityliving.com/united-kingdom/london/property/chapter-london-bridge",
+        "price_value": null,
+        "address": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "source": "uniacco",
+        "id": "uniacco:londonist-chapter-london-bridge",
+        "name": "Londonist Chapter London Bridge",
+        "url": "https://uniacco.com/uk/london/londonist-chapter-london-bridge",
+        "price_value": 490.0,
+        "address": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "source": "uniacco",
+        "id": "uniacco:chapter-london-bridge",
+        "name": "Chapter London Bridge",
+        "url": "https://uniacco.com/uk/london/chapter-london-bridge",
+        "price_value": 465.0,
+        "address": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:chapter-london-bridge-london-2411130939379",
+        "name": "Chapter London Bridge, London",
+        "url": "https://www.chapter-living.com/properties/central/london-bridge",
+        "price_value": 465.0,
+        "address": "42 Weston St, Bridge, London SE1 3QJ, UK",
+        "lat": 51.50302970000001,
+        "lng": -0.0852184
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:londonist-london-bridge-residence-london-2507171003783",
+        "name": "LST London Bridge Residence, London",
+        "url": "https://londonist.co.uk/residences/london-bridge-residence_537?academic_year_id=9",
+        "price_value": 530.0,
+        "address": "42 Weston St, Bridge, London SE1 3QJ, UK",
+        "lat": 51.50302970000001,
+        "lng": -0.0852184
+      }
+    ]
+  },
+  {
+    "size": 5,
+    "members": [
+      {
+        "source": "universityliving",
+        "id": "universityliving:chapter-old-street",
+        "name": "Chapter Old street",
+        "url": "https://www.universityliving.com/united-kingdom/london/property/chapter-old-street",
+        "price_value": null,
+        "address": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "source": "uniacco",
+        "id": "uniacco:old-street-residence",
+        "name": "Londonist Old Street Residence",
+        "url": "https://uniacco.com/uk/london/old-street-residence",
+        "price_value": 472.0,
+        "address": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:chapter-old-street-london-2203164613042",
+        "name": "Chapter Old Street, London",
+        "url": "https://www.chapter-living.com/properties/old-street/",
+        "price_value": 289.0,
+        "address": "18 Paul St, London EC2A 4JH, UK",
+        "lat": 51.5228239,
+        "lng": -0.08419960000000001
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:old-street-residence-london-2205287379970",
+        "name": "GoBritanya Old Street Residence, London",
+        "url": "https://docs.google.com/spreadsheets/d/1l2AR2i0prSBYHWEJxUaBDjLYaXKW1moVcaM5PPSfJgE/edit?gid=0#gid=0",
+        "price_value": 505.0,
+        "address": "18 Paul St, London EC2A 4JH, UK",
+        "lat": 51.5228239,
+        "lng": -0.08419960000000001
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:londonist-old-street-residence-london-2003136844345",
+        "name": "LST Old Street Residence, London",
+        "url": "https://www.londonist.co.uk/residences/old-street-residence_17",
+        "price_value": 530.0,
+        "address": "18 Paul St, London EC2A 4JH, UK",
+        "lat": 51.5228239,
+        "lng": -0.08419960000000001
+      }
+    ]
+  },
+  {
+    "size": 5,
+    "members": [
+      {
+        "source": "casita",
+        "id": "casita:iq-sterling-court",
+        "name": "iQ Sterling Court",
+        "url": "https://www.casita.com/student-accommodation/542-iq-sterling-court-london-uk",
+        "price_value": 265.0,
+        "address": "6 Lakeside Way London HA9 0BU United Kingdom",
+        "lat": 51.5573048,
+        "lng": -0.2841601
+      },
+      {
+        "source": "universityliving",
+        "id": "universityliving:iq-sterling-court",
+        "name": "iQ Sterling Court",
+        "url": "https://www.universityliving.com/united-kingdom/london/property/iq-sterling-court",
+        "price_value": null,
+        "address": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:londonist-sterling-court-london-2411207428272",
+        "name": "LST IQ Sterling Court, London",
+        "url": "https://londonist.co.uk/residences/iq-sterling-court_89?academic_year_id=8",
+        "price_value": 199.0,
+        "address": "6 Lakeside Way, London HA9 0BU, UK",
+        "lat": 51.55756889999999,
+        "lng": -0.2839126
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:sterling-court-2208204500390",
+        "name": "GoBritanya Sterling Court, London",
+        "url": "https://docs.google.com/spreadsheets/d/1l2AR2i0prSBYHWEJxUaBDjLYaXKW1moVcaM5PPSfJgE/edit?gid=0#gid=0",
+        "price_value": 225.0,
+        "address": "6 Lakeside Way, London HA9 0BU, UK",
+        "lat": 51.5573048,
+        "lng": -0.2841601
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:iq-sterling-court-wembley-1811167912400",
+        "name": "iQ Sterling Court, London",
+        "url": "https://www.iqstudentaccommodation.com/london/sterling-court?year=2021-22",
+        "price_value": 265.0,
+        "address": "6 Lakeside Way, London HA9 0BU, UK",
+        "lat": 51.5573048,
+        "lng": -0.2841601
+      }
+    ]
+  },
+  {
+    "size": 5,
+    "members": [
+      {
+        "source": "uniacco",
+        "id": "uniacco:highbury-residence",
+        "name": "Londonist Highbury Residence",
+        "url": "https://uniacco.com/uk/london/highbury-residence",
+        "price_value": 308.0,
+        "address": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:iq-highbury-london-1811163333778",
+        "name": "iQ Highbury, London",
+        "url": "https://www.iqstudentaccommodation.com/search/building/highbury?year=2019-20",
+        "price_value": 305.0,
+        "address": "201 Isledon Rd, Finsbury Park, London N7 7JR, UK",
+        "lat": 51.56267870000001,
+        "lng": -0.1075997
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:highbury-residence-go-britanya-london-2211299028931",
+        "name": "GoBritanya Highbury Residence, London",
+        "url": "https://docs.google.com/spreadsheets/d/1l2AR2i0prSBYHWEJxUaBDjLYaXKW1moVcaM5PPSfJgE/edit?gid=0#gid=0",
+        "price_value": 375.0,
+        "address": "309 Holloway Rd, London N7 9DS, UK",
+        "lat": 51.5534405,
+        "lng": -0.1136022
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:chapter-highbury-london-1707319989447",
+        "name": "Chapter Highbury, London",
+        "url": "https://www.chapter-living.com/properties/highbury/",
+        "price_value": 393.0,
+        "address": "309 Holloway Rd, London N7 9DS, UK",
+        "lat": 51.55327980000001,
+        "lng": -0.1134245
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:londonist-highbury-residence-london-2003137827393",
+        "name": "LST Highbury Residence, London",
+        "url": "https://www.londonist.co.uk/residences/highbury-residence_12",
+        "price_value": 420.0,
+        "address": "309 Holloway Rd, London N7 9DS, UK",
+        "lat": 51.5534499,
+        "lng": -0.1136551
+      }
+    ]
+  },
+  {
+    "size": 4,
+    "members": [
+      {
+        "source": "universityliving",
+        "id": "universityliving:chapter-ealing",
+        "name": "Chapter Ealing",
+        "url": "https://www.universityliving.com/united-kingdom/london/property/chapter-ealing",
+        "price_value": null,
+        "address": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:go-britanya-ealing-residence-london-2406071331750",
+        "name": "GoBritanya Ealing Residence, London",
+        "url": "https://docs.google.com/spreadsheets/d/1l2AR2i0prSBYHWEJxUaBDjLYaXKW1moVcaM5PPSfJgE/edit?gid=0#gid=0",
+        "price_value": 290.0,
+        "address": "3 Victoria Rd, North Acton, London W3 6UN, UK",
+        "lat": 51.52285749999999,
+        "lng": -0.2586461
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:chapter-ealing-london-1902122096174",
+        "name": "Chapter Ealing, London",
+        "url": "https://www.chapter-living.com/properties/ealing/",
+        "price_value": 296.0,
+        "address": "Holbrook House, 3 Victoria Rd, North Acton, London W3 6UN, UK",
+        "lat": 51.5233162,
+        "lng": -0.2609116999999999
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:londonist-ealing-residence-london-2301112196202",
+        "name": "LST Ealing Residence, London",
+        "url": "https://londonist.co.uk/residences/ealing-residence_496?",
+        "price_value": 399.0,
+        "address": "Holbrook House, 3 Victoria Rd, North Acton, London W3 6UN, UK",
+        "lat": 51.5228881,
+        "lng": -0.2585809999999999
+      }
+    ]
+  },
+  {
+    "size": 4,
+    "members": [
+      {
+        "source": "universityliving",
+        "id": "universityliving:chapter-king-s-cross",
+        "name": "Chapter Kings Cross",
+        "url": "https://www.universityliving.com/united-kingdom/london/property/chapter-king-s-cross",
+        "price_value": null,
+        "address": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:chapter-kings-cross-london-1707293068339",
+        "name": "Chapter Kings Cross, London",
+        "url": "https://www.chapter-living.com/properties/north/kings-cross",
+        "price_value": 349.0,
+        "address": "200 Pentonville Rd, London N1 9JP, UK",
+        "lat": 51.53131519999999,
+        "lng": -0.1181328
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:londonist-king-s-cross-residence-london-2108054823836",
+        "name": "LST King's Cross Residence, London",
+        "url": "https://www.londonist.co.uk/residences/kings-cross-residence_7",
+        "price_value": 525.0,
+        "address": "200 Pentonville Rd, London N1 9JP, UK",
+        "lat": 51.53128619999999,
+        "lng": -0.1173506
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:kings-cross-residence-go-britanya-london-2009022949327",
+        "name": "GoBritanya Kings Cross Residence, London",
+        "url": "https://docs.google.com/spreadsheets/d/1l2AR2i0prSBYHWEJxUaBDjLYaXKW1moVcaM5PPSfJgE/edit?gid=0#gid=0",
+        "price_value": 555.0,
+        "address": "200 Pentonville Rd, London N1, UK",
+        "lat": 51.5313053,
+        "lng": -0.1171737
+      }
+    ]
+  },
+  {
+    "size": 4,
+    "members": [
+      {
+        "source": "uniacco",
+        "id": "uniacco:chapter-westminster",
+        "name": "Chapter Westminster",
+        "url": "https://uniacco.com/uk/london/chapter-westminster",
+        "price_value": 492.0,
+        "address": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:chapter-westminster-2207199972072",
+        "name": "Chapter Westminster, London",
+        "url": "https://www.chapter-living.com/properties/westminster/",
+        "price_value": 492.0,
+        "address": "200A Lambeth Rd, London SE1 7LR, UK",
+        "lat": 51.4957842,
+        "lng": -0.1160669
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:gobritanya-westminster-residence-london-2503086215270",
+        "name": "Gobritanya Westminster Residence, London",
+        "url": "https://docs.google.com/spreadsheets/d/1l2AR2i0prSBYHWEJxUaBDjLYaXKW1moVcaM5PPSfJgE/edit?gid=0#gid=0",
+        "price_value": 525.0,
+        "address": "200A Lambeth Rd, London SE1 7LR, UK",
+        "lat": 51.4957842,
+        "lng": -0.1160669
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:londonist-westminster-residence-london-2409136783356",
+        "name": "LST Westminster Residence, London",
+        "url": "https://londonist.co.uk/residences/westminster-residence_536?academic_year_id=8",
+        "price_value": 540.0,
+        "address": "200A Lambeth Rd, London SE1 7LR, UK",
+        "lat": 51.4957842,
+        "lng": -0.1160669
+      }
+    ]
+  },
+  {
+    "size": 4,
+    "members": [
+      {
+        "source": "unitestudents",
+        "id": "unitestudents:drapery-place",
+        "name": "Drapery Place",
+        "url": "https://www.unitestudents.com/viewings/london/drapery-place",
+        "price_value": 286.0,
+        "address": "65 Leman Street, London, United Kingdom, E1 8EU",
+        "lat": 51.5131132807314,
+        "lng": -0.069589971103909
+      },
+      {
+        "source": "uniacco",
+        "id": "uniacco:drapery-place",
+        "name": "Drapery Place",
+        "url": "https://uniacco.com/uk/london/drapery-place",
+        "price_value": null,
+        "address": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:londonist-drapery-place-london-2405299082320",
+        "name": "LST Drapery Place, London",
+        "url": "https://londonist.co.uk/residences/drapery-place_531?academic_year_id=8*",
+        "price_value": 350.0,
+        "address": "65 Leman St, London E1 8EU, UK",
+        "lat": 51.5129574,
+        "lng": -0.06977960000000001
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:drapery-place-london-2002141869314",
+        "name": "Drapery Place, London",
+        "url": "https://www.unitestudents.com/london/drapery-place",
+        "price_value": 228.0,
+        "address": "65 Leman St, London E1 8EU, UK",
+        "lat": 51.513057,
+        "lng": -0.0697387
+      }
+    ]
+  },
+  {
+    "size": 4,
+    "members": [
+      {
+        "source": "casita",
+        "id": "casita:londonist---lewisham-exchange---(flexible-tenancies)",
+        "name": "Londonist - Lewisham Exchange - (Flexible Tenancies)",
+        "url": "https://www.casita.com/student-accommodation/102987-lewisham-exchange-london-uk",
+        "price_value": 375.0,
+        "address": "Exchange Point, Loampit Vale, London SE13 7NX, UK",
+        "lat": 51.465634,
+        "lng": -0.0187751
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:vita-student-lewisham-exchange-2011093481483",
+        "name": "Vita Student Lewisham Exchange, London",
+        "url": "https://www.vitastudent.com/student-accommodation/london/lewisham-exchange/",
+        "price_value": 330.0,
+        "address": "Exchange Point, Loampit Vale, London SE13 7NX, UK",
+        "lat": 51.4647139,
+        "lng": -0.0141497
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:londonist-lewisham-exchange-london-2209012033202",
+        "name": "LST Lewisham Exchange, London",
+        "url": "https://www.londonist.co.uk/residences/lewisham-exchange_408",
+        "price_value": 249.0,
+        "address": "Exchange Point, Loampit Vale, London SE13 7NX, UK",
+        "lat": 51.4647139,
+        "lng": -0.0141497
+      },
+      {
+        "source": "vitastudent",
+        "id": "vitastudent:lewisham-exchange",
+        "name": "Vita Student Lewisham Exchange",
+        "url": "https://www.vitastudent.com/en/cities/london/lewisham-exchange/",
+        "price_value": null,
+        "address": null,
+        "lat": null,
+        "lng": null
+      }
+    ]
+  },
+  {
+    "size": 4,
+    "members": [
+      {
+        "source": "uniacco",
+        "id": "uniacco:chapter-lewisham-residence",
+        "name": "Londonist Chapter Lewisham Residence",
+        "url": "https://uniacco.com/uk/london/chapter-lewisham-residence",
+        "price_value": 335.0,
+        "address": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:lewisham-residence-london-2206069854956",
+        "name": "GoBritanya Lewisham Residence, London",
+        "url": "https://docs.google.com/spreadsheets/d/1l2AR2i0prSBYHWEJxUaBDjLYaXKW1moVcaM5PPSfJgE/edit?gid=0#gid=0",
+        "price_value": 255.0,
+        "address": "Thurston Rd, London SE13 7SD, UK",
+        "lat": 51.4662752,
+        "lng": -0.0163244
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:chapter-lewisham-london-1707296011998",
+        "name": "Chapter Lewisham, London",
+        "url": "https://www.chapter-living.com/properties/lewisham/",
+        "price_value": 286.0,
+        "address": "46 Thurston Rd, London SE13 7SD, UK",
+        "lat": 51.46640009999999,
+        "lng": -0.0164776
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:londonist-lewisham-residence-london-2003138583689",
+        "name": "LST Lewisham Residence, London",
+        "url": "https://www.londonist.co.uk/residences/lewisham-residence_8",
+        "price_value": 325.0,
+        "address": "46 Thurston Rd, London SE13 7SD, UK",
+        "lat": 51.46640009999999,
+        "lng": -0.0164776
+      }
+    ]
+  },
+  {
+    "size": 4,
+    "members": [
+      {
+        "source": "casita",
+        "id": "casita:north-lodge-unite",
+        "name": "North Lodge Unite",
+        "url": "https://www.casita.com/student-accommodation/213-north-lodge-unite-london-uk",
+        "price_value": 266.0,
+        "address": "Lebus Street, Tottenham, London, N17 9FQ",
+        "lat": 51.5901946,
+        "lng": -0.058722699999976
+      },
+      {
+        "source": "universityliving",
+        "id": "universityliving:north-lodge",
+        "name": "North Lodge",
+        "url": "https://www.universityliving.com/united-kingdom/london/property/north-lodge",
+        "price_value": null,
+        "address": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "source": "unitestudents",
+        "id": "unitestudents:north-lodge",
+        "name": "North Lodge",
+        "url": "https://www.unitestudents.com/viewings/london/north-lodge",
+        "price_value": 266.0,
+        "address": "Lebus Street, Tottenham Hale, London, England, N17 9FQ",
+        "lat": 51.5887495962715,
+        "lng": -0.0586330890655518
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:north-lodge-london-1710102555905",
+        "name": "North Lodge, London",
+        "url": "https://www.unitestudents.com/london/north-lodge",
+        "price_value": 221.0,
+        "address": "Lebus St, London N17 9FQ, UK",
+        "lat": 51.58996899999999,
+        "lng": -0.05847409999999999
+      }
+    ]
+  },
+  {
+    "size": 3,
+    "members": [
+      {
+        "source": "casita",
+        "id": "casita:aes-aldgate",
+        "name": "AES Aldgate",
+        "url": "https://www.casita.com/student-accommodation/1841-aes-aldgate-london-uk",
+        "price_value": 1500.0,
+        "address": "Alie St, London E1 8DA, UK",
+        "lat": 51.5139131,
+        "lng": -0.0706678
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:iq-aldgate-london-1707315979267",
+        "name": "iQ Aldgate, London",
+        "url": "https://www.iqstudentaccommodation.com/search/building/aldgate?year=2019-20",
+        "price_value": 359.0,
+        "address": "66 Commercial Rd, London E1 1LP, UK",
+        "lat": 51.5146711,
+        "lng": -0.06687880000000002
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:aldgate-residence-go-britanya-2008218676075",
+        "name": "GoBritanya Aldgate Residence, London",
+        "url": "https://docs.google.com/spreadsheets/d/1l2AR2i0prSBYHWEJxUaBDjLYaXKW1moVcaM5PPSfJgE/edit?gid=0#gid=0",
+        "price_value": 515.0,
+        "address": "1 Commercial Rd, London E1 1NU, UK",
+        "lat": 51.5151447,
+        "lng": -0.06944299999999999
+      }
+    ]
+  },
+  {
+    "size": 3,
+    "members": [
+      {
+        "source": "casita",
+        "id": "casita:aes-shoreditch",
+        "name": "AES Shoreditch",
+        "url": "https://www.casita.com/student-accommodation/236217-aes-shoreditch-london-uk",
+        "price_value": 750.0,
+        "address": "62 Cheshire Street, E2 6EH",
+        "lat": 51.5235522,
+        "lng": -0.0689528
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:iq-shoreditch-london-1811179150260",
+        "name": "iQ Shoreditch, London",
+        "url": "https://www.iqstudentaccommodation.com/search/building/shoreditch?year=2019-20",
+        "price_value": 443.0,
+        "address": "2 Silicon Wy, East Rd, London N1 6AT, UK",
+        "lat": 51.5276184,
+        "lng": -0.0877662
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:go-britanya-iq-shoreditch-residence-london-2307071008444",
+        "name": "GoBritanya IQ Shoreditch Residence, London",
+        "url": "https://docs.google.com/spreadsheets/d/1l2AR2i0prSBYHWEJxUaBDjLYaXKW1moVcaM5PPSfJgE/edit?gid=0#gid=0",
+        "price_value": 520.0,
+        "address": "2 Silicon Wy, East Rd, London N1 6AT, UK",
+        "lat": 51.5276184,
+        "lng": -0.0877662
+      }
+    ]
+  },
+  {
+    "size": 3,
+    "members": [
+      {
+        "source": "universityliving",
+        "id": "universityliving:arbour-house",
+        "name": "Arbour House",
+        "url": "https://www.universityliving.com/united-kingdom/london/property/arbour-house",
+        "price_value": null,
+        "address": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "source": "unitestudents",
+        "id": "unitestudents:arbour-house",
+        "name": "Arbour House",
+        "url": "https://www.unitestudents.com/viewings/london/arbour-house",
+        "price_value": 415.0,
+        "address": "1 Sebastian Street, London, United Kingdom, EC1V 0HF",
+        "lat": 51.5268562652739,
+        "lng": -0.100712931299569
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:arbour-house-2002143129812",
+        "name": "Arbour House, London",
+        "url": "https://www.unitestudents.com/london/Arbour-House?yearSelected=20%2F21",
+        "price_value": 217.0,
+        "address": "1 Sebastian St, London EC1V 0HF, UK",
+        "lat": 51.5268531,
+        "lng": -0.1006944
+      }
+    ]
+  },
+  {
+    "size": 3,
+    "members": [
+      {
+        "source": "universityliving",
+        "id": "universityliving:arch-view-house",
+        "name": "Arch View House",
+        "url": "https://www.universityliving.com/united-kingdom/london/property/arch-view-house",
+        "price_value": null,
+        "address": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "source": "unitestudents",
+        "id": "unitestudents:arch-view-house",
+        "name": "Arch View House",
+        "url": "https://www.unitestudents.com/viewings/london/arch-view-house",
+        "price_value": 264.0,
+        "address": "First Way, Wembley, London, UK, HA9 0JD",
+        "lat": 51.557819,
+        "lng": -0.275707
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:arch-view-house-2002212154548",
+        "name": "Arch View House, London",
+        "url": "https://www.unitestudents.com/london/Arch-View-House?yearSelected=20%2F21",
+        "price_value": 190.0,
+        "address": "First Way, Wembley HA9 0JD, UK",
+        "lat": 51.5582043,
+        "lng": -0.2751153
+      }
+    ]
+  },
+  {
+    "size": 3,
+    "members": [
+      {
+        "source": "uniacco",
+        "id": "uniacco:canvas-wembley-birch",
+        "name": "Canvas Arthur House",
+        "url": "https://uniacco.com/uk/london/canvas-wembley-birch",
+        "price_value": 335.0,
+        "address": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:gobritanya-wembley-arthur-house-london-2507193580286",
+        "name": "GoBritanya Wembley Arthur House, London",
+        "url": "https://docs.google.com/spreadsheets/d/1l2AR2i0prSBYHWEJxUaBDjLYaXKW1moVcaM5PPSfJgE/edit?gid=0#gid=0",
+        "price_value": 330.0,
+        "address": "Arthur House, 1 Rutherford Way, Wembley Park, Wembley HA9 0GF, UK",
+        "lat": 51.5606716,
+        "lng": -0.278395
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:canvas-student-arthur-house-london-2411133787278",
+        "name": "Canvas Student Arthur House, London",
+        "url": "https://www.canvas-world.com/en/locations/united-kingdom/london/wembley-arthur-house",
+        "price_value": 340.0,
+        "address": "Wembley Park, Wembley HA9 0GF, UK",
+        "lat": 51.55894230000001,
+        "lng": -0.2790529
+      }
+    ]
+  },
+  {
+    "size": 3,
+    "members": [
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:chapter-highbury-ii-london-2203220094911",
+        "name": "Chapter Highbury II, London",
+        "url": "https://www.chapter-living.com/properties/highbury-ii/",
+        "price_value": 419.0,
+        "address": "295 Holloway Rd, London N7 8HS, UK",
+        "lat": 51.5526725,
+        "lng": -0.1127085
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:go-britanya-highbury-residence-ii-london-2307073638047",
+        "name": "GoBritanya Highbury Residence II, London",
+        "url": "https://docs.google.com/spreadsheets/d/1l2AR2i0prSBYHWEJxUaBDjLYaXKW1moVcaM5PPSfJgE/edit?gid=0#gid=0",
+        "price_value": 465.0,
+        "address": "295 Holloway Rd, London N7 8HS, UK",
+        "lat": 51.5526646,
+        "lng": -0.1126525
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:londonist-highbury-ii-residence-london-2003133250660",
+        "name": "LST Highbury II Residence, London",
+        "url": "https://www.londonist.co.uk/residences/highbury-ii-residence_13",
+        "price_value": 495.0,
+        "address": "295 Holloway Rd, London N7 8HS, UK",
+        "lat": 51.5526646,
+        "lng": -0.1126525
+      }
+    ]
+  },
+  {
+    "size": 3,
+    "members": [
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:chapter-islington-london-1707290711220",
+        "name": "Chapter Islington, London",
+        "url": "https://www.chapter-living.com/properties/islington/",
+        "price_value": 334.0,
+        "address": "32-34 Market Rd, London N7 9AW, UK",
+        "lat": 51.5471389,
+        "lng": -0.1208181
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:londonist-islington-residence-london-2003136980116",
+        "name": "LST Islington Residence, London",
+        "url": "https://www.londonist.co.uk/residences/islington-residence_6",
+        "price_value": 375.0,
+        "address": "32-34 Market Rd, London N7 9AW, UK",
+        "lat": 51.5468293,
+        "lng": -0.120561
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:islington-residence-go-britanya-2009027357830",
+        "name": "GoBritanya Islington Residence, London",
+        "url": "https://docs.google.com/spreadsheets/d/1l2AR2i0prSBYHWEJxUaBDjLYaXKW1moVcaM5PPSfJgE/edit?gid=0#gid=0",
+        "price_value": 385.0,
+        "address": "32-34 Market Rd, London N7 9AW, UK",
+        "lat": 51.5471389,
+        "lng": -0.1208181
+      }
+    ]
+  },
+  {
+    "size": 3,
+    "members": [
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:chapter-spitalfields-london-2011057254881",
+        "name": "Chapter Spitalfields, London",
+        "url": "https://www.chapter-living.com/properties/spitalfields/",
+        "price_value": 525.0,
+        "address": "9 Frying Pan Alley, London E1 7HS, UK",
+        "lat": 51.51771549999999,
+        "lng": -0.0768013
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:londonist-spitalfields-residence-london-2108052847676",
+        "name": "LST Spitalfields Residence, London",
+        "url": "https://www.londonist.co.uk/residences/spitalfields-residence_10",
+        "price_value": 560.0,
+        "address": "9 Frying Pan Alley, London E1 7HS, UK",
+        "lat": 51.51771549999999,
+        "lng": -0.0768013
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:spitalfields-residence-go-britanya-london-2009032272619",
+        "name": "GoBritanya Spitalfields Residence, London",
+        "url": "https://docs.google.com/spreadsheets/d/1l2AR2i0prSBYHWEJxUaBDjLYaXKW1moVcaM5PPSfJgE/edit?gid=0#gid=0",
+        "price_value": 585.0,
+        "address": "9 Frying Pan Alley, London E1 7HS, UK",
+        "lat": 51.51777499999999,
+        "lng": -0.0768449
+      }
+    ]
+  },
+  {
+    "size": 3,
+    "members": [
+      {
+        "source": "casita",
+        "id": "casita:emily-bowes-court-unite",
+        "name": "Emily Bowes Court Unite",
+        "url": "https://www.casita.com/student-accommodation/214-emily-bowes-court-unite-london-uk",
+        "price_value": 225.0,
+        "address": "Lebus Street, N17 9FD",
+        "lat": 51.58897899999999,
+        "lng": -0.0587559
+      },
+      {
+        "source": "unitestudents",
+        "id": "unitestudents:emily-bowes-court",
+        "name": "Emily Bowes Court",
+        "url": "https://www.unitestudents.com/viewings/london/emily-bowes-court",
+        "price_value": 284.0,
+        "address": "Lebus Street, Tottenham Hale, London, England, N17 9FD ",
+        "lat": 51.5884,
+        "lng": -0.059929
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:emily-bowes-court-london-1710110276271",
+        "name": "Emily Bowes Court, London",
+        "url": "https://www.unitestudents.com/london/emily-bowes-court",
+        "price_value": 226.0,
+        "address": "Lebus St, London N17 9FD, UK",
+        "lat": 51.58897899999999,
+        "lng": -0.05875590000000001
+      }
+    ]
+  },
+  {
+    "size": 3,
+    "members": [
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:go-britanya-southbank-residence-london-2406074080062",
+        "name": "GoBritanya South Bank Residence, London",
+        "url": "https://docs.google.com/spreadsheets/d/1l2AR2i0prSBYHWEJxUaBDjLYaXKW1moVcaM5PPSfJgE/edit?gid=0#gid=0",
+        "price_value": 425.0,
+        "address": "17 Great Suffolk St, London SE1 0NS, UK",
+        "lat": 51.5049025,
+        "lng": -0.1012034
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:chapter-south-bank-london-1707299131831",
+        "name": "Chapter South Bank, London",
+        "url": "https://www.chapter-living.com/properties/south-bank/",
+        "price_value": 447.0,
+        "address": "17 Great Suffolk St, London SE1 0NS, UK",
+        "lat": 51.5049025,
+        "lng": -0.1012034
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:londonist-south-bank-residence-london-2301097674521",
+        "name": "LST South Bank Residence, London",
+        "url": "https://www.londonist.co.uk/residences/south-bank-residence_116",
+        "price_value": 610.0,
+        "address": "17 Great Suffolk St, London SE1 0NS, UK",
+        "lat": 51.5049025,
+        "lng": -0.1012034
+      }
+    ]
+  },
+  {
+    "size": 3,
+    "members": [
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:londonist-white-city-residence-london-2003137514390",
+        "name": "LST White City Residence, London",
+        "url": "https://www.londonist.co.uk/residences/white-city-residence_11",
+        "price_value": 395.0,
+        "address": "10 Westway, London W12 0DD, UK",
+        "lat": 51.5136756,
+        "lng": -0.2484673999999999
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:white-city-residence-go-britanya-london-2012093215616",
+        "name": "GoBritanya White City Residence, London",
+        "url": "https://docs.google.com/spreadsheets/d/1l2AR2i0prSBYHWEJxUaBDjLYaXKW1moVcaM5PPSfJgE/edit?gid=0#gid=0",
+        "price_value": 395.0,
+        "address": "10 Westway, London W3 7EL, UK",
+        "lat": 51.51359480000001,
+        "lng": -0.2483135
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:chapter-white-city-2203154510815",
+        "name": "Chapter White City, London",
+        "url": "https://www.chapter-living.com/properties/west/white-city",
+        "price_value": 411.0,
+        "address": "10 Westway, London W12 0DD, UK",
+        "lat": 51.5136756,
+        "lng": -0.2484673999999999
+      }
+    ]
+  },
+  {
+    "size": 3,
+    "members": [
+      {
+        "source": "universityliving",
+        "id": "universityliving:mannequin-house",
+        "name": "Mannequin House",
+        "url": "https://www.universityliving.com/united-kingdom/london/property/mannequin-house",
+        "price_value": null,
+        "address": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "source": "uniacco",
+        "id": "uniacco:mannequin-house",
+        "name": "Mannequin House",
+        "url": "https://uniacco.com/uk/london/mannequin-house",
+        "price_value": 269.0,
+        "address": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:mannequin-house-london-1706057856013",
+        "name": "Mannequin House, London",
+        "url": "https://www.studentroost.co.uk/locations/london/mannequin-house",
+        "price_value": 269.0,
+        "address": "Mannequin, 5 Blackhorse Ln, London E17 6SX, UK",
+        "lat": 51.587802,
+        "lng": -0.0405355
+      }
+    ]
+  },
+  {
+    "size": 3,
+    "members": [
+      {
+        "source": "uniacco",
+        "id": "uniacco:mcmillan-student-village",
+        "name": "McMillan Student Village",
+        "url": "https://uniacco.com/uk/london/mcmillan-student-village",
+        "price_value": null,
+        "address": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:mcmillan-residence-go-britanya-london-2303234603388",
+        "name": "GoBritanya McMillan Residence, London",
+        "url": "https://docs.google.com/spreadsheets/d/1l2AR2i0prSBYHWEJxUaBDjLYaXKW1moVcaM5PPSfJgE/edit?gid=0#gid=0",
+        "price_value": 265.0,
+        "address": "Creek Rd, London SE8 3BU, UK",
+        "lat": 51.4810768,
+        "lng": -0.0214919
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:mcmillan-student-village-london-2412028192296",
+        "name": "McMillan Student Village, London",
+        "url": "https://campuslivingvillages.com/united-kingdom/london/mcmillan/",
+        "price_value": 365.0,
+        "address": "McMillan Student Village, 137 Creek Rd, London SE8 3BU, UK",
+        "lat": 51.48126269999999,
+        "lng": -0.0214423
+      }
+    ]
+  },
+  {
+    "size": 3,
+    "members": [
+      {
+        "source": "unitestudents",
+        "id": "unitestudents:stapleton-house",
+        "name": "Stapleton House",
+        "url": "https://www.unitestudents.com/viewings/london/stapleton-house",
+        "price_value": 339.0,
+        "address": "279 Holloway Road, London, England, N7 8FB",
+        "lat": 51.552199,
+        "lng": -0.1125862
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:londonist-stapleton-house-london-2507107842970",
+        "name": "LST Stapleton House, London",
+        "url": "https://londonist.co.uk/residences/stapleton-house_538?academic_year_id=9",
+        "price_value": 225.0,
+        "address": "279 Holloway Rd, London N7 8FB, UK",
+        "lat": 51.5520044,
+        "lng": -0.1122351
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:stapleton-house-london-2412050280265",
+        "name": "Stapleton House, London",
+        "url": "https://www.unitestudents.com/student-accommodation/london/stapleton-house",
+        "price_value": 268.0,
+        "address": "279 Holloway Rd, London N7 8FB, UK",
+        "lat": 51.5520044,
+        "lng": -0.1122351
+      }
+    ]
+  },
+  {
+    "size": 3,
+    "members": [
+      {
+        "source": "unitestudents",
+        "id": "unitestudents:station-court",
+        "name": "Station Court",
+        "url": "https://www.unitestudents.com/viewings/london/station-court",
+        "price_value": 285.0,
+        "address": "158 High Road, Page Green Terrace, London, England, N15 4NU",
+        "lat": 51.5807966829314,
+        "lng": -0.072117771827692
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:station-court-london-2311162352782",
+        "name": "Station Court, London",
+        "url": "https://www.unitestudents.com/london/station-court?academicYear=24%2F25&lengthOfStay",
+        "price_value": 228.0,
+        "address": "Page Green Terrace, High Rd, London N15 4NU, UK",
+        "lat": 51.5812861,
+        "lng": -0.0721136
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:londonist-station-court-residence-london-2507237039065",
+        "name": "LST Station Court Residence, London",
+        "url": "https://londonist.co.uk/residences/station-court-residence_15?academic_year_id=9",
+        "price_value": 260.0,
+        "address": "158 High Rd, London N15 4NU, UK",
+        "lat": 51.5807236,
+        "lng": -0.0712844
+      }
+    ]
+  },
+  {
+    "size": 3,
+    "members": [
+      {
+        "source": "casita",
+        "id": "casita:student-living-heights-unite",
+        "name": "Student Living Heights Unite",
+        "url": "https://www.casita.com/student-accommodation/222-student-living-heights-unite-london-uk",
+        "price_value": 432.0,
+        "address": "312 Goswell Road, Islington, London, EC1V 7AG",
+        "lat": 51.53014049999999,
+        "lng": -0.102570199999946
+      },
+      {
+        "source": "unitestudents",
+        "id": "unitestudents:student-living-heights",
+        "name": "Student Living Heights",
+        "url": "https://www.unitestudents.com/viewings/london/student-living-heights",
+        "price_value": 432.0,
+        "address": "Derwent Point, 312 Goswell Road, London, England, EC1V 7AF",
+        "lat": 51.5298740216368,
+        "lng": -0.102543407909849
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:student-living-heights-london-2402136104228",
+        "name": "Student Living Heights, London",
+        "url": "https://www.unitestudents.com/london/student-living-heights?academicYear=24%2F25&lengthOfStay",
+        "price_value": 429.0,
+        "address": "Derwent Point, 312-314 Goswell Rd., London EC1V 7AF, UK",
+        "lat": 51.53011799999999,
+        "lng": -0.1026654
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "casita",
+        "id": "casita:aes-hoxton",
+        "name": "AES Hoxton",
+        "url": "https://www.casita.com/student-accommodation/242588-aes-hoxton-london-uk",
+        "price_value": 750.0,
+        "address": "97-137 Hackney Rd, London E2 8ET, UK",
+        "lat": 51.5296637,
+        "lng": -0.0775339
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:iq-hoxton-london-1811170520327",
+        "name": "iQ Hoxton, London",
+        "url": "https://www.iqstudentaccommodation.com/london/hoxton?year=2021-22",
+        "price_value": 389.0,
+        "address": "67 Kingsland Rd, London E2 8AG, UK",
+        "lat": 51.5298946,
+        "lng": -0.0775878
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:axo-islington-london-1709152706379",
+        "name": "AXO Islington, London",
+        "url": "http://axostudent.co.uk/properties/axo-islington/",
+        "price_value": 299.0,
+        "address": "556 Holloway Rd, London N7 6JP, UK",
+        "lat": 51.5601527,
+        "lng": -0.1223038
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:londonist-islington-ii-london-2409136687551",
+        "name": "LST Islington II, London",
+        "url": "https://londonist.co.uk/residences/islington-ii_42?academic_year_id=8",
+        "price_value": 299.0,
+        "address": "556 Holloway Rd, London N7 6JP, UK",
+        "lat": 51.5601527,
+        "lng": -0.1223038
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:axo-new-cross-london-1709159531035",
+        "name": "AXO New Cross, London",
+        "url": "http://axostudent.co.uk/properties/axo-new-cross-gate/",
+        "price_value": 269.0,
+        "address": "403 New Cross Rd, London SE14 6LA, UK",
+        "lat": 51.4760581,
+        "lng": -0.0333123
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:londonist-axo-new-cross-london-2305277448450",
+        "name": "LST New Cross, London",
+        "url": "https://www.londonist.co.uk/residences/new-cross_43",
+        "price_value": 375.0,
+        "address": "403 New Cross Rd, London SE14 6AG, UK",
+        "lat": 51.4758754,
+        "lng": -0.033282
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "casita",
+        "id": "casita:axo-oxford-circus",
+        "name": "AXO Oxford Circus",
+        "url": "https://www.casita.com/student-accommodation/1547-axo-oxford-circus-london-uk",
+        "price_value": 513.0,
+        "address": "2 Devonshire Street, Marylebone, London, W1W 5DB",
+        "lat": 51.52254190000001,
+        "lng": -0.14432
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:axo-oxford-circus-london-1709156600823",
+        "name": "AXO Oxford Circus, London",
+        "url": "http://axostudent.co.uk/properties/axo-oxford-circus/",
+        "price_value": 535.0,
+        "address": "2 Devonshire St, London W1W 5DB, UK",
+        "lat": 51.5225373,
+        "lng": -0.1443377
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "unitestudents",
+        "id": "unitestudents:blithehale-court",
+        "name": "Blithehale Court",
+        "url": "https://www.unitestudents.com/viewings/london/blithehale-court",
+        "price_value": 279.0,
+        "address": "10 Witan Street, Bethnal Green, London, England, E2 6FG",
+        "lat": 51.5254,
+        "lng": -0.056842
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:blithehale-court-london-1710102916062",
+        "name": "Blithehale Court, London",
+        "url": "https://www.unitestudents.com/student-accommodation/london/blithehale-court",
+        "price_value": 279.0,
+        "address": "Blithehale Court, 10 Witan St, London E2 6FG, UK",
+        "lat": 51.5252816,
+        "lng": -0.0567241
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:chapter-portobello-london-1707310732338",
+        "name": "Chapter Portobello, London",
+        "url": "https://www.chapter-living.com/properties/portobello/",
+        "price_value": 255.0,
+        "address": "1 Alderson St, London W10 5JY, UK",
+        "lat": 51.526378,
+        "lng": -0.2097883
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:londonist-portobello-residence-london-2003135314045",
+        "name": "LST Portobello Residence, London",
+        "url": "https://www.londonist.co.uk/residences/portobello-residence_9",
+        "price_value": 325.0,
+        "address": "1 Alderson St, London W10 5JY, UK",
+        "lat": 51.526378,
+        "lng": -0.2097883
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "prestigestudentliving",
+        "id": "prestigestudentliving:charles-morton-court,-newington-green,-london",
+        "name": "Charles Morton Court, Newington Green, London",
+        "url": "https://prestigestudentliving.com/student-accommodation/london/charles-morton-court",
+        "price_value": 289.0,
+        "address": "37-43 Green Lanes",
+        "lat": 51.552570343018,
+        "lng": -0.087410002946854
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:charles-morton-court-london-1807110338424",
+        "name": "Charles Morton Court, London ",
+        "url": "https://prestigestudentliving.com/student-accommodation/london/charles-morton-court",
+        "price_value": 299.0,
+        "address": "37-43 Green Lanes, Newington Green, London N16 9BS, UK",
+        "lat": 51.5526405,
+        "lng": -0.08735020000000002
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "uniacco",
+        "id": "uniacco:dashwood-studios",
+        "name": "Dashwood Studios",
+        "url": "https://uniacco.com/uk/london/dashwood-studios",
+        "price_value": null,
+        "address": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:dashwood-studios-1805049298482",
+        "name": "Collegiate Dashwood Studios, London",
+        "url": "https://www.collegiate-ac.com/uk-student-accommodation/london/dashwood-studios/",
+        "price_value": 395.0,
+        "address": "120-138 Walworth Rd, London SE17 1JL, UK",
+        "lat": 51.491651,
+        "lng": -0.098233
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:davidson-house-london-1608302708584",
+        "name": "Davidson House, Kingston Upon Thames",
+        "url": "https://www.thisisfresh.com/kingston/davidson-house?_yTrackUser=OTA5OTQzNiMxMDYyMTAzMDIw-Lj8cZA7dS6A=&_yTrackVisit=MjAzNDY2NTMjNzE0MTkyNTM5-fVVNG9YGqMM=",
+        "price_value": 290.0,
+        "address": "3-5 Penrhyn Rd, Kingston upon Thames KT1 2BT, UK",
+        "lat": 51.4058044,
+        "lng": -0.303687
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:one-penrhyn-road-kingston-upon-thames-1803263168492",
+        "name": "One Penrhyn Road, Kingston Upon Thames",
+        "url": "https://www.crm-students.com/kingston/one-penrhyn-road",
+        "price_value": 367.0,
+        "address": "1 Penrhyn Rd, London KT1 2BT, UK",
+        "lat": 51.4067829,
+        "lng": -0.3034512
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "yugo",
+        "id": "yugo:depot-point",
+        "name": "Depot Point",
+        "url": "https://yugo.com/en-us/global/united-kingdom/london/depot-point",
+        "price_value": null,
+        "address": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:depot-point-london-1906150007469",
+        "name": "Yugo Depot Point, London",
+        "url": "https://yugo.com/en-gb/global/united-kingdom/london/depot-point",
+        "price_value": 450.0,
+        "address": "15-27 Britannia St, London WC1X 9BP, UK",
+        "lat": 51.5295958,
+        "lng": -0.1187595
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "unitestudents",
+        "id": "unitestudents:east-central-house",
+        "name": "East Central House",
+        "url": "https://www.unitestudents.com/viewings/london/east-central-house",
+        "price_value": 340.0,
+        "address": "115 Lever Street, London, England, EC1V 3RH",
+        "lat": 51.527,
+        "lng": -0.095701
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:east-central-house-london-2311140711466",
+        "name": "East Central House, London",
+        "url": "https://www.unitestudents.com/london/east-central-house?academicYear=24%2F25&lengthOfStay",
+        "price_value": 301.0,
+        "address": "East Central House, 115 Lever St, London EC1V 3RH, UK",
+        "lat": 51.52723,
+        "lng": -0.0951
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "yugo",
+        "id": "yugo:element-bermondsey",
+        "name": "Element Bermondsey",
+        "url": "https://yugo.com/en-us/global/united-kingdom/london/element-bermondsey",
+        "price_value": null,
+        "address": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:element-bermondsey-london-2206247786822",
+        "name": "Yugo Element Bermondsey, London",
+        "url": "https://yugo.com/en-gb/global/united-kingdom/london/element-bermondsey",
+        "price_value": 325.0,
+        "address": "Alscot Rd, London SE1 3AY, UK",
+        "lat": 51.4940179,
+        "lng": -0.0739186
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "unitestudents",
+        "id": "unitestudents:elizabeth-croll-house",
+        "name": "Elizabeth Croll House",
+        "url": "https://www.unitestudents.com/viewings/london/elizabeth-croll-house",
+        "price_value": 490.0,
+        "address": "27 Penton Rise, London, England, WC1X 9EJ",
+        "lat": 51.53,
+        "lng": -0.115759
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:elizabeth-croll-house-london-1710101871177",
+        "name": "Elizabeth Croll House, London",
+        "url": "https://www.unitestudents.com/london/elizabeth-croll-house",
+        "price_value": 490.0,
+        "address": "27 Penton Rise, London WC1X 9EJ, UK",
+        "lat": 51.5301948,
+        "lng": -0.1148047
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "unitestudents",
+        "id": "unitestudents:ewen-henderson-court",
+        "name": "Ewen Henderson Court",
+        "url": "https://www.unitestudents.com/viewings/london/ewen-henderson-court",
+        "price_value": 250.0,
+        "address": "40 Goodwood Road, New Cross, London, England, SE14 6BL",
+        "lat": 51.4768258272035,
+        "lng": -0.0395679473877
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:ewen-henderson-court-london-1710258894086",
+        "name": "Ewen Henderson Court, London",
+        "url": "https://www.unitestudents.com/student-accommodation/london/ewen-henderson-court",
+        "price_value": 250.0,
+        "address": "Ewen Henderson Court, 40 Goodwood Rd, London SE14 6BL, UK",
+        "lat": 51.4766937,
+        "lng": -0.0396801
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "casita",
+        "id": "casita:fifty-one-london",
+        "name": "Fifty One London",
+        "url": "https://www.casita.com/student-accommodation/242601-fifty-one-london-london-uk",
+        "price_value": 839.0,
+        "address": "51-55 Cromwell Rd, South Kensington, London SW7 2EH, United Kingdom",
+        "lat": 51.4944,
+        "lng": -0.1732
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:fifty-one-london-london-2501163973072",
+        "name": "Fifty One London, London",
+        "url": "https://www.fiftyonelondon.com/residences",
+        "price_value": 839.0,
+        "address": "51-55 Cromwell Rd, South Kensington, London SW7 2EH, UK",
+        "lat": 51.4951257,
+        "lng": -0.1783671
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "casita",
+        "id": "casita:glassyard-building",
+        "name": "Glassyard Building",
+        "url": "https://www.casita.com/student-accommodation/369-glassyard-building-london-uk",
+        "price_value": 410.0,
+        "address": "7A Stockwell Green, Stockwell, London, SW9 9JF",
+        "lat": 51.4685203,
+        "lng": -0.1202455
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:glassyard-building-london-1608308724021",
+        "name": "Glassyard Building, London",
+        "url": "https://www.thisisfresh.com/london/glassyard-building/rooms",
+        "price_value": 410.0,
+        "address": "7A Stockwell Grn, London SW9 9JF, UK",
+        "lat": 51.46855929999999,
+        "lng": -0.1200865
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:gobritanya-your-tribe-southwark-london-2507164895270",
+        "name": "Gobritanya Your Tribe Southwark, London",
+        "url": "https://docs.google.com/spreadsheets/d/1l2AR2i0prSBYHWEJxUaBDjLYaXKW1moVcaM5PPSfJgE/edit?gid=0#gid=0",
+        "price_value": 215.0,
+        "address": "28 Ruby St, London SE15 1LL, UK",
+        "lat": 51.48237109999999,
+        "lng": -0.0619835
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:southwark-london-2405026945836",
+        "name": "YourTRIBE Southwark, London",
+        "url": " https://www.yourtribe.com/buildings/southwark/",
+        "price_value": 329.0,
+        "address": "28 Ruby St, London SE15 1LR, UK",
+        "lat": 51.48249500000001,
+        "lng": -0.0619654
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "uniacco",
+        "id": "uniacco:gobritanya-kirby-street-residence",
+        "name": "GoBritanya-Kirby Street Residence",
+        "url": "https://uniacco.com/uk/london/gobritanya-kirby-street-residence",
+        "price_value": 575.0,
+        "address": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:go-britanya-kirby-street-residence-london-2009026790029",
+        "name": "GoBritanya Kirby Street Residence, London",
+        "url": "https://docs.google.com/spreadsheets/d/1l2AR2i0prSBYHWEJxUaBDjLYaXKW1moVcaM5PPSfJgE/edit?gid=0#gid=0",
+        "price_value": 595.0,
+        "address": "Arundel House, 36-43 Kirby St, London EC1N 8TE, UK",
+        "lat": 51.5197933,
+        "lng": -0.1073775
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "unitestudents",
+        "id": "unitestudents:hawthorne-house",
+        "name": "Hawthorne House",
+        "url": "https://www.unitestudents.com/viewings/london/hawthorne-house",
+        "price_value": 363.0,
+        "address": "2 Farthingale Walk, London, United Kingdom, E15 1LE",
+        "lat": 51.5395463294248,
+        "lng": -0.00103793820647979
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:hawthorne-house-london-2511172322354",
+        "name": "Hawthorne House, London",
+        "url": "https://www.unitestudents.com/student-accommodation/london/hawthorne-house?roomType=ENSUITE&bedSize=Double&roomSize=Large",
+        "price_value": 363.0,
+        "address": "2 Farthingale Walk, London E15 1LE, UK",
+        "lat": 51.5396898,
+        "lng": -0.0012579
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "unitestudents",
+        "id": "unitestudents:hayloft-point",
+        "name": "Hayloft Point",
+        "url": "https://www.unitestudents.com/viewings/london/hayloft-point",
+        "price_value": 399.0,
+        "address": "4-6 and 16-22 Middlesex Street, London, United Kingdom, E1 7JH",
+        "lat": 51.5180733810551,
+        "lng": -0.0791522724914557
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:hayloft-point-london-2111193670242",
+        "name": "Hayloft Point, London",
+        "url": "https://www.unitestudents.com/london/hayloft-point?academicYear=23%2F24",
+        "price_value": 320.0,
+        "address": "16 Middlesex St, London E1 7EZ, UK",
+        "lat": 51.51625319999999,
+        "lng": -0.0762484
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:iq-hammersmith-london-1811160979976",
+        "name": "iQ Hammersmith, London",
+        "url": "https://www.iqstudentaccommodation.com/search/building/hammersmith?year=2019-20",
+        "price_value": 377.0,
+        "address": "230 Shepherds Bush Rd, London W6 7NL, UK",
+        "lat": 51.4944615,
+        "lng": -0.2240754
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:go-britanyan-hammersmith-london-2406074551482",
+        "name": "GoBritanya Hammersmith, London",
+        "url": "https://docs.google.com/spreadsheets/d/1l2AR2i0prSBYHWEJxUaBDjLYaXKW1moVcaM5PPSfJgE/edit?gid=0#gid=0",
+        "price_value": 480.0,
+        "address": "230 Shepherds Bush Rd, London W6 7NL, UK",
+        "lat": 51.4944615,
+        "lng": -0.2240754
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "uniacco",
+        "id": "uniacco:londonist-paddington-citi-view",
+        "name": "Londonist Paddington Citi View",
+        "url": "https://uniacco.com/uk/london/londonist-paddington-citi-view",
+        "price_value": 350.0,
+        "address": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:londonist-paddington-citi-view-london-2408066065874",
+        "name": "LST Paddington Citi View, London ",
+        "url": "https://londonist.co.uk/residences/paddington-citi-view_534?academic_year_id=8#terms",
+        "price_value": 425.0,
+        "address": "15-25 Talbot Square, Tyburnia, London W2 1TR, UK",
+        "lat": 51.5151135,
+        "lng": -0.1751132
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:londonist-aldgate-residence-london-2003139487840",
+        "name": "LST Aldgate Residence, London",
+        "url": "https://www.londonist.co.uk/residences/aldgate-residence_5",
+        "price_value": 525.0,
+        "address": "Education Square, Whitechapel, 1-2 Commercial Rd, London E1 1DF, UK",
+        "lat": 51.5151188,
+        "lng": -0.06790450000000002
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:chapter-aldgate-london-2203165496617",
+        "name": "Chapter Aldgate, London",
+        "url": "https://www.chapter-living.com/properties/aldgate/",
+        "price_value": 343.0,
+        "address": "Education Square, Whitechapel, 1-2 Commercial Rd, London E1 1DF, UK",
+        "lat": 51.5151188,
+        "lng": -0.06790450000000002
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:londonist-seven-sisters-london-2408058230871",
+        "name": "LST Seven Sisters, London",
+        "url": "https://londonist.co.uk/residences/seven-sisters_525?academic_year_id=8",
+        "price_value": 340.0,
+        "address": "2 Chesnut Rd, London N17 9EN, UK",
+        "lat": 51.5908966,
+        "lng": -0.0692224
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:axo-seven-sisters-2211069713867",
+        "name": "AXO Seven Sisters, London",
+        "url": "https://axostudent.co.uk/properties/axo-seven-sisters/",
+        "price_value": 321.0,
+        "address": "2 Chesnut Rd, London N17 9EN, UK",
+        "lat": 51.5908966,
+        "lng": -0.0692224
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:londonist-the-lyra-london-2408301151799",
+        "name": "LST The Lyra, London",
+        "url": "https://londonist.co.uk/residences/the-lyra_527?academic_year_id=8",
+        "price_value": 360.0,
+        "address": "North Acton, London W3 6ZX, UK",
+        "lat": 51.5226206,
+        "lng": -0.2612940999999999
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:the-lyra-1608308406857",
+        "name": "The Lyra, London",
+        "url": "https://www.downingstudents.com/student-accommodation/london/the-lyra/",
+        "price_value": 340.0,
+        "address": "Portal Way, North Acton, London W3 6BX, UK",
+        "lat": 51.5226334,
+        "lng": -0.2614970999999999
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "unitestudents",
+        "id": "unitestudents:moonraker-point",
+        "name": "Moonraker Point",
+        "url": "https://www.unitestudents.com/viewings/london/moonraker-point",
+        "price_value": 340.0,
+        "address": "Pocock Street, London, England, SE1 0FN",
+        "lat": 51.4888,
+        "lng": -0.074242
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:moonraker-point-london-1710250639933",
+        "name": "Moonraker Point, London",
+        "url": "https://www.unitestudents.com/london/moonraker-point",
+        "price_value": 340.0,
+        "address": "Pocock St, London SE1 0FN, UK",
+        "lat": 51.5021788,
+        "lng": -0.1005683
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "unitestudents",
+        "id": "unitestudents:olympic-way",
+        "name": "Olympic Way",
+        "url": "https://www.unitestudents.com/viewings/london/olympic-way",
+        "price_value": 279.0,
+        "address": "23 Olympic Way, London, England, HA9 0FR",
+        "lat": 51.55902,
+        "lng": -0.278924
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:olympic-way-london-1710105525723",
+        "name": "Olympic Way, London",
+        "url": "https://www.unitestudents.com/london/olympic-way",
+        "price_value": 259.0,
+        "address": "23 Olympic Way, London HA9 0FR, UK",
+        "lat": 51.55962309999999,
+        "lng": -0.2790077
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "unitestudents",
+        "id": "unitestudents:pacific-court",
+        "name": "Pacific Court",
+        "url": "https://www.unitestudents.com/viewings/london/pacific-court",
+        "price_value": 339.0,
+        "address": "15 Assembly Passage, Whitechapel, London, y, E1 4EY",
+        "lat": 51.5199,
+        "lng": -0.05131
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:pacific-court-london-1710240121954",
+        "name": "Pacific Court, London",
+        "url": "https://www.unitestudents.com/london/pacific-court",
+        "price_value": 268.0,
+        "address": "15 Assembly Passage, Stepney Green, London E1 4EY, UK",
+        "lat": 51.5198678,
+        "lng": -0.05095319999999999
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "uniacco",
+        "id": "uniacco:pavillion-court-wembley",
+        "name": "Pavilion Court Wembley",
+        "url": "https://uniacco.com/uk/london/pavillion-court-wembley",
+        "price_value": null,
+        "address": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:pavilion-court-2012027755604",
+        "name": "Pavilion Court, London",
+        "url": "https://www.thisisfresh.com/london/pavilion-court?_yTrackUser=MTA5OTE0NjUjMTU3OTMwNTc1Mw==-ESogjaCQTZY=&_yTrackVisit=NDA1NTEwNTIjMjY2NTA0NjU3-%2fn1Ivyy%2bIW0%3d",
+        "price_value": 270.0,
+        "address": "20 First Way, Wembley HA9 0PE, UK",
+        "lat": 51.55867850000001,
+        "lng": -0.2748778000000001
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:piccadilly-court-london-1710259668710",
+        "name": "Piccadilly Court, London",
+        "url": "https://www.unitestudents.com/student-accommodation/london/piccadilly-court",
+        "price_value": null,
+        "address": "457-463 Caledonian Rd, London N7 9BJ, UK",
+        "lat": 51.5475216,
+        "lng": -0.1182704
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:piccadilly-court-london-2305263546648",
+        "name": "GoBritanya Piccadilly Court, London",
+        "url": "https://www.gobritanya.com/student-residences/london/piccadilly-court",
+        "price_value": 375.0,
+        "address": "457-463 Caledonian Rd, London N7 9BJ, UK",
+        "lat": 51.547529999999995,
+        "lng": -0.1183769
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "unitestudents",
+        "id": "unitestudents:quantum-court",
+        "name": "Quantum Court",
+        "url": "https://www.unitestudents.com/viewings/london/quantum-court",
+        "price_value": 292.0,
+        "address": "10 King David Lane, Shadwell, London, England, E1 0DY ",
+        "lat": 51.5101,
+        "lng": -0.054612
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:quantum-court-london-1710108757833",
+        "name": "Quantum Court, London",
+        "url": "https://www.unitestudents.com/london/quantum-court",
+        "price_value": 239.0,
+        "address": "10 King David Ln, London E1 0DY, UK",
+        "lat": 51.5100268,
+        "lng": -0.05330929999999999
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "unitestudents",
+        "id": "unitestudents:rahere-court",
+        "name": "Rahere Court",
+        "url": "https://www.unitestudents.com/viewings/london/rahere-court",
+        "price_value": 328.0,
+        "address": "Toby Lane, Mile End, London, England, E1 4DW",
+        "lat": 51.5224,
+        "lng": -0.039671
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:rahere-court-london-1710114620639",
+        "name": "Rahere Court, London",
+        "url": "https://www.unitestudents.com/london/rahere-court",
+        "price_value": 262.0,
+        "address": "RAHERE COURT, Toby Ln, London E1 4DW, UK",
+        "lat": 51.52259659999999,
+        "lng": -0.0387758
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "unitestudents",
+        "id": "unitestudents:romano-court",
+        "name": "Romano Court",
+        "url": "https://www.unitestudents.com/viewings/london/romano-court",
+        "price_value": 472.0,
+        "address": "16 Briset Street, London, United Kingdom, EC1M 5HD",
+        "lat": 51.5214998935955,
+        "lng": -0.103202722279292
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:romano-court-london-2304181114361",
+        "name": "Romano Court, London",
+        "url": "https://www.unitestudents.com/student-accommodation/london/romano-court?roomType=STUDIO&bedSize=Double&roomSize=Large&floorLevel=Standard",
+        "price_value": 240.0,
+        "address": "16 Briset St, London EC1M 5HD, UK",
+        "lat": 51.5214941,
+        "lng": -0.1031899
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "unitestudents",
+        "id": "unitestudents:somerset-court",
+        "name": "Somerset Court",
+        "url": "https://www.unitestudents.com/viewings/london/somerset-court",
+        "price_value": 445.0,
+        "address": "Aldenham Street, Euston, London, England, NW1 1AS",
+        "lat": 51.5312,
+        "lng": -0.134453
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:somerset-court-london-1710105069958",
+        "name": "Somerset Court, London",
+        "url": "https://www.unitestudents.com/london/somerset-court",
+        "price_value": 350.0,
+        "address": "Aldenham St, London NW1 1AS, UK",
+        "lat": 51.5318873,
+        "lng": -0.1337449
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "universityliving",
+        "id": "universityliving:southall-soul",
+        "name": "Southall & Soul",
+        "url": "https://www.universityliving.com/united-kingdom/london/property/southall-soul",
+        "price_value": null,
+        "address": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:southall-and-soul-london-2511282756253",
+        "name": "Southall And Soul, London",
+        "url": "https://www.andsoul.com/locations/southall",
+        "price_value": 253.0,
+        "address": "27 Uxbridge Rd, Hayes UB4 0UG, UK",
+        "lat": 51.5143827,
+        "lng": -0.39571000000000006
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "universityliving",
+        "id": "universityliving:spring-mews-london",
+        "name": "Spring Mews",
+        "url": "https://www.universityliving.com/united-kingdom/london/property/spring-mews-london",
+        "price_value": null,
+        "address": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:spring-mews-london-1608306769695",
+        "name": "Spring Mews, London",
+        "url": "https://www.thisisfresh.com/london/spring-mews",
+        "price_value": 369.0,
+        "address": "10 Tinworth St, London SE11 5AL, UK",
+        "lat": 51.4895048,
+        "lng": -0.1211261
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "unitestudents",
+        "id": "unitestudents:stratford-one",
+        "name": "Stratford One",
+        "url": "https://www.unitestudents.com/viewings/london/stratford-one",
+        "price_value": 305.0,
+        "address": "1 International Way, London, England, E20 1GS",
+        "lat": 51.543487,
+        "lng": -0.011966
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:stratford-one-london-1710116483962",
+        "name": "Stratford One, London",
+        "url": "https://www.unitestudents.com/london/stratford-one",
+        "price_value": 243.0,
+        "address": "1 International Way, London E20 1GS, UK",
+        "lat": 51.5443682,
+        "lng": -0.0119251
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "yugo",
+        "id": "yugo:the-curve",
+        "name": "The Curve",
+        "url": "https://yugo.com/en-us/global/united-kingdom/london/the-curve",
+        "price_value": null,
+        "address": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:the-curve-2001255783052",
+        "name": "Yugo The Curve, London",
+        "url": "https://yugo.com/en-gb/global/united-kingdom/london/the-curve",
+        "price_value": 341.0,
+        "address": "14 Fieldgate St, London E1 1ES, UK",
+        "lat": 51.51674670000001,
+        "lng": -0.06620329999999999
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "uniacco",
+        "id": "uniacco:valentine",
+        "name": "The Valentine",
+        "url": "https://uniacco.com/uk/london/valentine",
+        "price_value": null,
+        "address": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:the-valentine-london-2003160232475",
+        "name": "The Valentine, London",
+        "url": "https://prestigestudentliving.com/student-accommodation/london/the-valentine",
+        "price_value": 249.0,
+        "address": "Flat 310, Valentine Hotel, 27-37 Perth Rd, Gants Hill, Ilford IG2 6BX, UK",
+        "lat": 51.5755295,
+        "lng": 0.06813930000000001
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "yugo",
+        "id": "yugo:therese-house",
+        "name": "Therese House",
+        "url": "https://yugo.com/en-us/global/united-kingdom/london/therese-house",
+        "price_value": null,
+        "address": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:therese-house-london-1906186914451",
+        "name": "Yugo Therese House, London",
+        "url": "https://yugo.com/en-gb/global/united-kingdom/london/therese-house",
+        "price_value": 384.0,
+        "address": "29-30 Glasshouse Yard, Barbican, London EC1A 4JW, UK",
+        "lat": 51.52193630000001,
+        "lng": -0.098102
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "uniacco",
+        "id": "uniacco:venue-studios",
+        "name": "Venue Studios",
+        "url": "https://uniacco.com/uk/london/venue-studios",
+        "price_value": null,
+        "address": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:venue-studios-london-2401233494282",
+        "name": "Venue Studios, London",
+        "url": "https://prestigestudentliving.com/student-accommodation/london/venue-studios",
+        "price_value": 405.0,
+        "address": "333 New Cross Rd, London SE14 6AT, UK",
+        "lat": 51.4758343,
+        "lng": -0.0361515
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "unitestudents",
+        "id": "unitestudents:walmsley-studios",
+        "name": "Walmsley Studios",
+        "url": "https://www.unitestudents.com/viewings/london/walmsley-studios",
+        "price_value": 299.0,
+        "address": "218 St John Street, London, EC1V 4AT",
+        "lat": 51.525290420639,
+        "lng": -0.103823258937069
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:walmsley-studios-2002144481664",
+        "name": "Walmsley Studios, London",
+        "url": "https://www.unitestudents.com/london/Walmsley-Studios?yearSelected=20%2F21",
+        "price_value": 238.0,
+        "address": "218 St John St, London EC1V 4AT, UK",
+        "lat": 51.52534980000001,
+        "lng": -0.1039001
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "unitestudents",
+        "id": "unitestudents:wellington-lodge",
+        "name": "Wellington Lodge",
+        "url": "https://www.unitestudents.com/viewings/london/wellington-lodge",
+        "price_value": null,
+        "address": "268-282 Waterloo Road, London, England, SE1 8RQ",
+        "lat": 51.4994056894947,
+        "lng": -0.106685952114873
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:wellington-lodge-london-1710117401829",
+        "name": "Wellington Lodge, London",
+        "url": "https://www.unitestudents.com/london/wellington-lodge",
+        "price_value": 292.0,
+        "address": "268-282 Waterloo Rd, London SE1 8RQ, UK",
+        "lat": 51.4991399,
+        "lng": -0.1066272
+      }
+    ]
+  },
+  {
+    "size": 2,
+    "members": [
+      {
+        "source": "universityliving",
+        "id": "universityliving:wick-park-2",
+        "name": "Wick Park",
+        "url": "https://www.universityliving.com/united-kingdom/london/property/wick-park-2",
+        "price_value": null,
+        "address": null,
+        "lat": null,
+        "lng": null
+      },
+      {
+        "source": "amberstudent",
+        "id": "amberstudent:wick-park-london-2303011285133",
+        "name": "Wick Park, London",
+        "url": "https://prestigestudentliving.com/student-accommodation/london/wick-park",
+        "price_value": 379.0,
+        "address": "1 Stour Rd, Fish Island, London E3 2EQ, UK",
+        "lat": 51.538945999999996,
+        "lng": -0.023124799999999997
+      }
+    ]
+  }
+]
