@@ -7,8 +7,8 @@ import {
   FreshnessDot,
   hashSeed,
   Icon,
-  PhotoPlaceholder,
   Pill,
+  PropertyImage,
   ProviderBadge,
   ScoreRing,
 } from "./ui";
@@ -64,7 +64,13 @@ export function PropertyCard({
           background: ns.line2,
         }}
       >
-        <PhotoPlaceholder w={120} h={110} seed={hashSeed(p.id)} />
+        <PropertyImage
+          src={p.image}
+          alt={p.name}
+          w={120}
+          h={110}
+          seed={hashSeed(p.id)}
+        />
       </div>
 
       <div style={{ minWidth: 0 }}>

@@ -49,6 +49,7 @@ interface DedupedListing {
   lat: number | null;
   lng: number | null;
   image: string | null;
+  images: string[];
   description: string | null;
   rating: number | null;
   rating_count: number | null;
@@ -217,6 +218,8 @@ function adapt(rec: DedupedListing): Property | null {
     zone: zoneFromPostcode(rec.postal_code),
     station: null,
     notes: "",
+    image: rec.image ?? null,
+    images: rec.images ?? [],
     sources: rec.sources,
     appearances: rec.appearances,
     sourceUrl: rec.url ?? rec.source_url,

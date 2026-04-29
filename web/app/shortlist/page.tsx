@@ -12,7 +12,7 @@ import {
   FreshnessDot,
   hashSeed,
   Icon,
-  PhotoPlaceholder,
+  PropertyImage,
   ScoreRing,
 } from "@/components/ui";
 import { BackHeader } from "@/components/BackHeader";
@@ -213,7 +213,9 @@ export default function ShortlistPage() {
                       cursor: "pointer",
                     }}
                   >
-                    <PhotoPlaceholder
+                    <PropertyImage
+                      src={p.image}
+                      alt={p.name}
                       w={90}
                       h={90}
                       seed={hashSeed(p.id)}

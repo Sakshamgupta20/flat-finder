@@ -187,6 +187,15 @@ def merge_cluster(records: list[dict], idxs: list[int]) -> dict:
     if amenities:
         best["amenities"] = sorted(amenities)
 
+    # Pick the richest images gallery across the cluster (preserve order from
+    # the source that supplied it; don't shuffle by mixing).
+    galleries = [m.get("images") or [] for m in members]
+    galleries.sort(key=len, reverse=True)
+    if galleries and galleries[0]:
+        best["images"] = galleries[0]
+    elif "images" not in best:
+        best["images"] = []
+
     # Best-known commute = the smallest non-null minute count across members.
     for k in ("commute_walk_min", "commute_transit_min", "commute_drive_min"):
         vals = [m.get(k) for m in members if m.get(k) is not None]

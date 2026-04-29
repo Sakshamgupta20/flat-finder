@@ -346,6 +346,46 @@ export function hashSeed(s: string): number {
   return Math.abs(h);
 }
 
+export function PropertyImage({
+  src,
+  alt,
+  w,
+  h,
+  seed,
+  label,
+  rounded,
+}: {
+  src: string | null | undefined;
+  alt: string;
+  w: number;
+  h: number;
+  seed?: number;
+  label?: string;
+  /** Forces border-radius — useful inside parents that crop differently. */
+  rounded?: number | string;
+}) {
+  // eslint-disable-next-line @next/next/no-img-element
+  if (src) {
+    return (
+      <img
+        src={src}
+        alt={alt}
+        width={w}
+        height={h}
+        loading="lazy"
+        style={{
+          width: "100%",
+          height: "100%",
+          objectFit: "cover",
+          display: "block",
+          borderRadius: rounded ?? "inherit",
+        }}
+      />
+    );
+  }
+  return <PhotoPlaceholder w={w} h={h} seed={seed ?? 0} label={label} />;
+}
+
 export function PhotoPlaceholder({
   w,
   h,

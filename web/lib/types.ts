@@ -67,6 +67,10 @@ export interface Property {
   zone: string | null;
   station: string | null;
   notes: string;
+  /** Featured image (cover). Null when no source provided one. */
+  image: string | null;
+  /** Full gallery, featured first. May be empty. */
+  images: string[];
   /** Sources this property was matched against (after dedup). */
   sources: string[];
   appearances: Array<{

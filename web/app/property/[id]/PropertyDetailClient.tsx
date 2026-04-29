@@ -7,8 +7,9 @@ import { useAppState } from "@/lib/state";
 import {
   Btn,
   FreshnessDot,
+  hashSeed,
   Icon,
-  PhotoPlaceholder,
+  PropertyImage,
   ProviderBadge,
   ScoreRing,
 } from "@/components/ui";
@@ -135,12 +136,26 @@ export function PropertyDetailClient({ id }: { id: string }) {
             }}
           >
             <div style={{ gridRow: "span 2" }}>
-              <PhotoPlaceholder w={580} h={366} seed={1} label="HERO PHOTO" />
+              <PropertyImage
+                src={p.images[0] ?? p.image}
+                alt={p.name}
+                w={580}
+                h={366}
+                seed={hashSeed(p.id)}
+                label="HERO"
+              />
             </div>
-            <PhotoPlaceholder w={200} h={180} seed={2} label="LIVING" />
-            <PhotoPlaceholder w={200} h={180} seed={3} label="KITCHEN" />
-            <PhotoPlaceholder w={200} h={180} seed={4} label="STUDY" />
-            <PhotoPlaceholder w={200} h={180} seed={5} label="EXTERIOR" />
+            {[1, 2, 3, 4].map((i) => (
+              <PropertyImage
+                key={i}
+                src={p.images[i] ?? null}
+                alt={`${p.name} photo ${i + 1}`}
+                w={200}
+                h={180}
+                seed={hashSeed(p.id) + i}
+                label={p.images[i] ? undefined : "—"}
+              />
+            ))}
           </div>
 
           {/* Heading */}

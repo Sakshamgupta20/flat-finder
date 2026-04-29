@@ -8,7 +8,7 @@ import {
   Btn,
   hashSeed,
   Icon,
-  PhotoPlaceholder,
+  PropertyImage,
   ScoreRing,
 } from "@/components/ui";
 import { BackHeader } from "@/components/BackHeader";
@@ -247,7 +247,9 @@ export default function ComparePage() {
                     marginBottom: 10,
                   }}
                 >
-                  <PhotoPlaceholder
+                  <PropertyImage
+                    src={p.image}
+                    alt={p.name}
                     w={220}
                     h={80}
                     seed={hashSeed(p.id)}
